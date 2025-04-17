@@ -1,0 +1,279 @@
+Country_codes = [
+"country": "Afghanistan". "countryCode": "AF",. "countryISOCodeN3": "004" , "countryCodeT3": "AFG")
+t
+( "country": "Aland Islands", "countryCode": "AX", "countryISOCode₩3": "248", "countryCodeT3": "ALA") ,
+( "country": "Albania", "countryCode": "AL", "countryISOCodeN3": "008", "countryCodeT3": "ALB"> ,
+C
+"country": "Algeria", "countrycode": "D2", "countryISOCodeN3": "012", "countryCodeT3": "DZA") ,
+t
+( "country": "American Samoa", "countryCode": "AS", "countryISOCodeN3": "016", "countryCodeT3": "ASM")
+"country": "Andorra", "countryCode": "AD", ""countryISOCodeN3": "020", "countryCodeT3": "AND">
+t
+"country": "Angola", "countryCode": "AO", "countryISOCodeN3": "024", "countryCodeT3": "AGO")
+"country": "Anguilla", "countryCode": "AI", "countryISOCodeN3": "660", "countryCodeT3": "AIA") ,
+"country": "Antarctica", "countryCode": "AQ", "countryISOCodeN3": "010", "countryCodeT3": "ATA")
+t
+"country": "Antigua and Barbuda", "countryCode": "AG", ""countryISOCode₩3": "028", "countryCodeT3": "ATG">
+t"country": "Argentina", "countryCode": "AR", "countryISOCodeN3": "032", "countryCodeT3": "ARG")
+"country": "Armenia", "countryCode": "AM", "countryISOCodeN3": "051", "countryCodeT3": "ARM")
+S
+f "country": "Aruba", "countryCode": "AN", "countryISOCodeN3": "533", "countryCodeT3": "ABW")
+( "country": "Australia", "countryCode": "AU", "countryISOCodeN3": "036", "countryCodeT3": "AUS")
+t "country": "Austria", "countryCode": "AT", "countryISOCodeN3": "040", "countryCodeT3": "AUT")
+( "country": "Azerbaijan", "countryCode": "AZ", "countryISOCodeN3": "031", "countryCodeT3": "AZE">
+f"country": "Bahamas", "countryCode": "BS", "countryISOCodeN3": "044". countryCodeT3": "BHS">,
+( "country": "Bahrain", "countryCode": "BH", "countryISOCodeN3": "048", "countrycodeT3": "BHR")
+( "country": "Bangladesh", "countryCode": "BD", "countryISOCodeN3": "050", "countryCodeT3": "BGD">,
+t "country": "Barbados", "countryCode": "BB", "countryISOCodeN3": "052", "count ryCodeT3": "BRB")
+("country": "Belarus", "countryCode": "BY", "countryISOCodeN3": "112", "countryCodeT3": "BLR")
+t "country": "Belgium". "countryCode": "BE",
+"Country ISOCkdeN3". "056", "countryCodeT3": "BEL")
+( "country": "Belize", "countryCode": "BZ", "countryISOCodeN3": "084", "countryCodeT3": "BLZ"),
+f"country": "Benin", "countryCode": "BJ", "countryISOCodeN3": "204", I"countryCodeT3": "BEN")
+"country": "Bermuda", "countryCode": "BH", "countryISOCodeN3": "060", "countryCodeT3": "BMU"),
+"country": "Bhutan", "countryCode": "BT", "countryISOCodeN3": "064", "countryCodeT3": "BTN")
+"country": "Bolivarian Republic of Venezuela", "countryCode": "VE", ""countryISOCodeN3": "862", "countryCodeT3": "VEN")
+"country": "Bolivia", "countryCode": "BO", "countryISOCodeN3": "068", "countryCodeT3": "BOL")
+"country": "Bonaire, St. Eusasius and Saba", "countryCode": "BQ", "countryISOCodeN3": "535", "countryCodeT3": "BES")
+"country": "Bosnia and Herzegovina", "countryCode": "BA", "countryISOCodeN3": "070", "countryCodeT3": "BIH")
+"country": "Botswana", "countryCode": "BW", "countryISOCodeN3": "072", "countrycodeT3": "BHA")
+"country": "Bouvet Island", "countrycode": "Bv", "countryISOCodeN3": "074", "countryCodeT3": "BVT")
+"country": "Brazil", "countryCode": "BR", "countryISOCodeN3": "076", "countryCodeT3": "BRA")
+'country": "British Indian Ocean Territory", "countryCode": "I0", ""countryISOCodeN3": "086", "countryCodeT3": "IOT">,
+"country": "British Virgin Islands", "countryCode": "VG", "countryISOCodeN3": "092", "countryCodeT3": "VGB")
+( "country": "Brunei Darussalam", "countryCode": "BN", "countryISOCodeN3": "096", "countryCodeT3": "BRN"),
+"country": "Bulgaria", "countryCode": "BG", "countryISOCodeN3": "100", "countryCodeT3": "BGR")
+"country": "Burkina Faso", "countryCode": "BF", "countryISOCodeN3": "854", "countryCodeT3": "BFA")
+"country": "Burundi", "countryCode": "BI", "countryISOCodeN3"; "108", "countryCodeT3": "BDI"> ,
+"country": "Cambodia", "countryCode": "KH", "countryISOCodeN3": "116", "countryCodeT3": "KHM")
+"country": "Cameroon", "countryCode": "CH", "countryISOCodeN3": "120", "countryCodeT3": "CMR">,
+"country": "Canada", "countryCode": "CA", "countryISOCodeN3": "124", "countryCodeT3": "CAN")
+t"country": "Cape Verde", "countrycode": "Cy", "countryISOCodeN3": "132", "countryCodeT3": "CPV").
+t "country": "Cayman Islands", "countryCode": "kY", "countryISOCodeN3": "136", "countryCodeT3": "CYH")
+("country": "Central African Republic", "countrycode": "CF", "countryISOCodeN3": "140", "countryCodeT3": "CAF")
+("country": "Chad", "countryCode": "TD", "countryISOCodeN3": "148", "countryCodeT3": "TCD")
+("country": "Chile", "countryCode": "CL", "countryI5OCodeN3": "152", "countryCodeT3": "CHL")
+( "country": "China", "countryCode": "CN", "countryISOCodeN3": "156", "countryCodeT3": "CHN")
+f"country": "Christmas Island", "countryCode": "CX", "countryISOCodeN3": "162", "countryCodeT3": "CXR")
+"country": "Cocos (Keeling) Islands", "countryCode": "CC", "countryISOCodeN3": "166", "countryCodeT3": "CCK")
+( "country": "Colombia", "countryCode": "CO", "countryISOCodeN3": "170", "countryCodeT3": "COL")
+( "country": "Comoros", "countryCode": "KM", "countryISOCodeN3": "174", "countryCodeT3": "COM")
+( "country": "Congo", "countryCode": "CG", "countryI5OCodeN3"; "178", "countryCodeT3": "COG")
+"country": "Cook Islands", "countryCode": "CK", "countryISOCodeN3": "184", "countryCodeT3": "COK")
+("country": "Costa Rica", "countryCode": "CR", "countryISOCodeN3": "188", "countryCodeT3": "CRI")
+country": "Côte D'Ivoire (Ivory Coast)", "countryCode": "CI", "countryI5OCode₩3": "384", "countryCodeT3": "CIV")
+"country": "Croatia", "countryCode": "HR", "countryISOCodeN3": "191", "countryCodeT3": "HRV")
+"country": "Cuba", ""countryCode"; "CU", "countryISOCodeN3": "192", "countrycodeT3": "CUB")
+"country": "Curacao", "countryCode": "CW", "countryISOCodeN3": "531", "countryCodeT3": "CUW")
+"country": "Cyprus", ""countrycode": "Cy", "countryISOCodeN3": "196", "countryCodeT3": "CYP")
+"country": "Czech Republic", "countryCode": "C2", "countryISOCodell)": "203", "countryCodeT3": "CZE")
+"country": "Democratic People's Republic Of Korea (North Korea)", "countrycode": "kP", "countryIS0CodeN3": "408", "countrycodeT3": "PRK")
+"country": "Democratic Republic of the Congo", "countryCode": "CD", "countryISOCodeN3": "180", "countryCodeT3": "ZAR")
+country": "Denmark", "countryCode": "DK", "countryISOCodeN3"; "208", "countryCodeT3": "DNK">
+country": "Djibouti", "countryCode": "DJ", "countryIs0CodeN3": "262", "countrycodeT3": -"DI")
+"country": "Dominica", "countryCode": "D4", "countryISOCodeN3": "212", "countryCodeT3": "DNA")
+"country": "Dominican Republic", "countryCode": "DO", "countryISOCodeN3": "214", "countryCodeT3": "DOM")
+country": "Ecuador", "countryCode": "EC", "countryIsOCode₩3": "218", ""countrycodeT3": "ECUs)
+"country": "Egypt", "countryCode": "EG", "countryISOCodeN3": "818", "countryCodeT3": "EGY")
+"country": "E1 Salvador", "countryCode": "SV", "countryISOCodeN3": "222", "countryCodeT3": "SLV")
+country": "Equatorial Guinea", "countryCode": "G0", ""countryISOCode₩3": "226", "countryCodeT3": "GNQ").
+"country": "Eritrea", "countryCode": "ER", "countryISOCodeN!3": "232", "countryCodeT3": "ERI")
+"country": "Estonia", "countryCode": "EE", "countryISOCodeN3": "233", "countryCodeT3": "EST")
+"country": "Eswatini", "countryCode": "S2", "countryI5oCodeNB3": "748", "countryCodeT3": "SH2">
+"country": "Ethiopia", "countryCode": "ET", "countryISOCode₩3":` "230", "countrycodeT3": "ETH")
+"country": "Falkland Islands (Malvinas)", "countryCode": "FK", "countryISOCodeN3": "238", "countryCodeT3": "FLK")
+country": "Faroe Islands", "countryCode": "FO", "country I50CodeN3": "234", "countrycodeT3": "FRO")
+country": "Federated States of Micronesia", "countryCode": "FM", "countryISOCodeN3": "583", "Ccountry Codd,"" "FSM")
+"country": "Fiji", "countryCode": "F)", ""countryIsOCodeN!3": "242", "countrycodeT3": "FII")
+"country": "Finland", "countryCode": "FI", "countryISOCodeN3": "246", "countryCodeT3": "FIN")
+"country": "France", "countryCode": "FR", "countryISOCodeN3": "250", "cOuntryCodeT3": "FRA")
+country": "French Guiana", "countryCode"; "GF", "countryISOCodeN3": "254", "countrycodeT3": "GUF")
+country":
+"French Polynesia", "countryCode": "PF", "countryISOCodeN3": "258", "countryCodeT3": "PYF")
+"country": "French Southern Territories", "countryCode": "TF",
+"countryIsoCodeN3": "260", "countryCodeT3"; "ATF")
+country": "Gabon", "countryCode": "GA", "countryISOCodeN3": "266", "countryCodeT3": "GAB")
+"country": "Gambia", "countryCode": "GM", "countryI5OCodeN3": "270", "countryCodeT3": "GMB")
+"country": "Georgia", "countryCode":; "GE", "countryISOCodeN3"; "268", "countryCodeT3": "GEO")
+country": "Germany", "countryCode": "DE", "countr) ISOCodeN3": "276", "countryCodeT3": "DEU")
+"country": "Germany (Mastercard)", "countryCode": "DE", "countryISOCodeN3": "280", "countryCodeT3": "DEU"> ,
+"country": "Ghana", "countryCode": "GH", "countryISOCodeN3": "288", "countryCodeT3": "GHA")
+("country": "Gibraltar", "countryCode": "GI", "countryISOCodeN3": "292", "countryCodet3": "GIB")
+"country": "Greece", "countryCode": "GR", "countryISOCodeN3": "300", "countryCodeT3": "GRC") ,
+"country": "Greenland", "countryCode": "GL", "countryISOCodeN3": "304", "countryCodeT3": "GRL")
+< "country": "Grenada", "countryCode": "GD", "countryISOCodeN3": "308", "countryCodeT3": "GRD")"
+( "country": "Guadeloupe", "countryCode": "GP", "countryISOCodeN3": "312") "countrycodeT3": "GLP")
+( "country": "Guam", "countryCode": "GU", "countryISOCodeN3": "316", "countryCodeT3": "GUM")
+( "country": "Guatemala", "countryCode": "GT", "countryISOCodeN3": "320", "countryCodeT3":" "GTM").
+[ "country": "Guernsey", "countryCode": "GG", "countryISOCodeN3": "831", "countnyCodeT3": "GGY""
+"country": "Guinea", "countryCode": "GN", "countryISOCodeN3": "324", "countryCodeT3": "GIN"> ,
+"country": "Guinea-Bissau", "countryCode": "GW", "countryISOCodeN3": "624", "countryCodeT3": "GNB") ,
+( "country": "Guyana", "countryCode": "GY", "countryISOCodēN3": "328", "countryCodeT3": "GUY"> ,
+"country": "Haiti", "countryCode": "HT", "countryISOCodeN3"; "332", "countryCodeT3": "HTI") ,
+( "country": "Heard and McDonald Islands", "countryCode": "HM", "countryISOCodeN3": "334", "country CodeT3": "HMD"> ,
+( "country": "Honduras", "countryCode": "HN", "countryISOCodeN3": "340", "countryCodeT3": "HND")
+"country": "Hong Kong", "countryCode": "HK", "countryISOCodeN3": "344", "countryCodeT3": "HKG").
+( "country": "Hungary", "countryCode": "HU", "countryISOCodeN3": "348", "countryCodeT3": "HUN") ,
+( "country": "Iceland", "countryCode": "IS", "countryISOCodeN3": "352", "countryCodeT3": "ISL")
+( "country": "India", "countryCode": "IN", "countryISOCodeN3": "356", "countryCodeT3": "IND")
+( "country": "Indonesia", "countryCode": "ID", "countryISOCodeN3": "360", "countryCodeT3": "IDN")
+( "country": "Iraq", "countryCode": "IQ", "countryISOCodeN3": "368", "countryCodeT3": "IRQ")
+"country": "Ireland", "countryCode": "IE", "countryISOCodeN3": "372", "countryCodeT3": "IRL"),
+""country": "Islamic Republic Of Iran",
+
+
+"countryCode": "IR",
+
+
+"countryISOCodeN3": "364", "countryCodeT3": "IRN">
+
+
+( "country": "Isle of Man", "countryCode": "IM", "countryISOCodeN3": "833", "countryCodeT3": "IMN"> ,
+f "country": "Israel", "countryCode": "IL", "countryISOCodeN3": "376", "countryCodeT3": "ISR") ,
+( "country": "Italy", "countryCode": "IT", "countryISOCodeN3"; "380", "countryCodeT3": "ITA"} ,
+( "country": "Jamaica", "countryCode": "JM", "countryISOCodeN3": "388", "countryCodeT3": "JAM")
+( "country": "Japan", "countryCode": "JP", "countryISOCodeN3": "392", "countryCodeT3": "JPN"> ,
+< "country": "Jersey", "countryCode": "JE", "countryISOCodeN3": "832", "countryCodeT3": "JEY")
+f "country": "Jordan", "countryCode": "30", "countryISOCodeN3": "400", "countryCodeT3": "JOR")
+"country": "Kazakhstan", "countryCode": "KZ", "countryISOCodeN3": "398", "countryCodeT3": "KAZ">.
+"country": "Kenya", "countryCode": "KE", "countryISOCodeN3": "404", "countryCodeT3": "KEN") ,
+"country": "Kiribati", "countryCode": "KI", "countryISOCodeN3": "296", "countryCodeT3": "KIR")
+( "country": "Kuwait", "countryCode": "KW", "countryISOCodeN3": "414", "countryCodeT3": "KWT")
+( "country": "Kyrgyzstan", "countryCode": "KG", "countryISOCodeN3": "417", "countryCodeT3": "KGZ")
+( "country": "Lao People's Democratic Republic", "countryCode": "LA", "countryISOCodeN3": "418", "countryCodeT3":
+"LAO") )
+( "country": "Latvia", "countryCode": "LV", "countryISOCodeN3": "428", "countryCodeT3": "LVA"> ,
+( "country": "Lebanon", "countryCode": "LB", "countryISOCodeN3": "422", "countryCodeT3": "LBN"),
+
+
+( "country": "Lesotho", "countryCode": "LS", "countryISOCodeN3": "426", "countryCodeT3": "LSO")
+"country": "Liberia", "countryCode": "LR", "countryISOCodeN3": "430", "countryCodeT3": "LBR") ,
+( "country": "Liechtenstein", "countryCode": "LI", "countryISOCodeN3": "438", "countryCodeT3": "LIE")
+( "country": "Lithuania", "countryCode": "LT", "countryISOCodeN3": "440", "countryCodeT3": "LTU")
+( "country": "Luxembourg", "countryCode": "LU", "countryISOCodeN3": "442", "countryCodeT3": "LUX")
+( "country": "Macao", "countryCode": "MO", "countryISOCodeN3": "446", "countryCodeT3": "MAC") ,
+( "country": "Macedonia", "countryCode": "MK", "countryISOCodeN3": "807", "countryCodeT3": "MKD")
+( "country": "Madagascar", "countryCode": "HG", "countryISOCodeN3": "450", "countryCodeT3": "MDG")
+( "country": "Malawi", "countryCode": "Mw", "countryISOCodeN3": "454", "countryCodeT3": "MHI") ,
+( "country": "Malaysia", "countryCode": "MY", "countryISOCodeN3": "458", "countryCodeT3": "MYS"> ,
+( "country": "Maldives", "countryCode": "MV", "countryISOCodeN3": "462", "countryCodeT3": "MDV""> ,
+( "country": "Mali", "countryCode": "ML", "countryISOCodeN3": "466", "countryCodeT3": "MLI")
+f "country": "Malta", "countryCode": "MT", "countryISOCodeN3": "470", "countryCodeT3": "MLT")
+( "country": "Marshall Islands", "countryCode": "MH", "countryISOCodeN3": "584", "countryCodeT3": "MHL"} ,
+'country": "Martinique", "countryCode": "MQ", "countryISOCodeN3": "474", "countryCodeT3": "HTQ"),
+"country": "Mauritania", "countryCode": "MR", "countryISOCodeN3": "478", "countryCodeT3": "MRT") ,
+"country": "Mauritius", "countryCode": "MU", "countryISOCodeN3": "480", "countryCodeT3": "MUS") ,
+country": "Mayotte", "countryCode": "YT", "countryISOCodeN3": "175", "countryCodeT3": "MYT"> ,
+'country": "Mexico", "countryCode": ""X", "countryISOCodeN3": "484", "countryCodeT3": "MEX"> ,
+("country": "Monaco", "countryCode": "MC", "countryISOCodeN3": "492", "countryCodeT3": "MCO")
+"country": "Mongolia", "countryCode": "MN", "countryISOCodeN3": "496", "countryCodeT3": "MNG")
+( "country": "Montenegro", "countryCode": "ME", "countryISOCodeN3": "499", "countryCodeT3": "MNE"> ,
+( "country": "Montserrat", "countryCode": "MS", "countryISOCodeN3": "500", "countryCodeT3": "MSR") ,
+< "country": "Morocco", "countryCode": "MA", "countryISOCodeN3": "504", "countryCodeT3": "MAR")
+( "country": "Mozambique", "countryCode": "MZ", "countryISOCodeN3": "508", "countryCodeT3": "HOZ"> ,
+f "country": "Myanmar", "countryCode": "MM", "countryISOCodeN3": "104", "countryCodeT3": "HMR") ,
+("country": "Namibia", "countryCode": "NA", "countryISOCodeN3": "516", "countryCodeT3": "NAM")
+( "country": "Nauru", "countryCode": "NR", "countryISOCodeN3": "520", "countryCodeT3": "NRU") ,
+f "country": "Nepal", "countryCode": "NP", "countryISOCodeN3": "524", "countryCodeT3": "NPL")
+t "country": "Netherlands", "countryCode": "NL", "countryISOCodeN3": "528", "countryCodeT3": "NLD")
+( "country": "Netherlands Antilles", "countryCode": "AN", "countryISOCodeN3": "530", "countryCodeT3": "ANT"> ,
+t "country": "New Caledonia", "countryCode": "NC", "countryISOCodeN3": "540", "countryCodeT3": "NCL"> ,
+f "country": "New Zealand", "countryCode": "NZ", "countryISOCodeN3": "554", "countryCodeT3": "NZL">
+f "country": "Nicaragua", "countryCode": "NI", "countryISOCodeN3": "558", "countryCodeT3": "NIC")
+( "country": "Niger", "countryCode": "NE", "countryISOCodeN3": "562", "countryCodeT3": "NER")
+( "country": "Nigeria", "countryCode": "NG", "countryISOCodeN3": "566", "countryCodeT3": "NGA"),
+( "country": "Niue", "countryCode": "NU", "countryISOCodeN3": "570", "countryCodeT3": "NIU")
+t "country": "Northern Mariana Islands", "countryCode": "MP", "countryISOCodeN3": "580", "countryCodeT3": "MNP")
+t "country": "Norway", "countryCode": "NO", "countryISOCodeN3": "578", "countryCodeT3": "NOR")
+"country": "Oman", "countryCode": "OM", "countryISOCodeN3": "512", "countryCodeT3": "OMN")
+t "country": "Pakistan", "countryCode": "PK", "countryISOCodeN3": "586", "countrycodeT3": "PAK")
+[ "country": "Palau", "countryCode": "PW", "countryISOCodeN3": "585", "countryCodeT3": "PLW"]
+[ "country": "Panama", "countryCode": "PA", "countryISOCodeN3": "591", "countryCodeT3": "PAN")
+( "country": "Papua New Guinea", "countryCode": "PG", "countryISOCodeN3": "598" "countryCodeT3": "PNG") ,
+f "country": "Paraguay", "countryCode": "PY", "countryISOCodeN3": "600", "countryCodeT3": "PRY"]
+("country": "Peru", "countryCode": "PE", "countryISOCodeN3": "604", "countryCodeT3": "PER")
+( "country": "Philippines", "countryCode": "PH", "countryISOCodeN3": "608", "countryCodeT3": "PHL")
+( "country": "Pitcairn", "countryCode": "PN", "countryISOCodeN3": "612", "countryCodeT3": "PCN">
+( "country": "Poland", "countryCode": "PL", "countryISOCodel3": "616", "countryCodeT3": "POL")
+( "country": "Portugal", "countryCode": "PT", "countryISOCodeN3": "620", "countrycodeT3". "PRT")
+7
+
+
+"country": "Puerto Rico", "countryCode": "PR", "countryISOCodeN3": "630", "countrycodeT3": "PRI")
+( "country": "Qatar", "countryCode": "QA", "countryISOCodeN3": "634", "countryCodeT3": "CAT")
+
+
+("country": "Republic of Korea (South Korea)", "countryCode": "KR", ""countryI5OCodeN3": "410", "count ryCodeT3": "KOR")
+( "country": "Republic of Kosovo", "countryCode": "Q2", "countryISOCodeN3": "900", "countryCodeT3": "QZZ")
+( "country": "Republic of Moldova", "countryCode": "MD", "countryISOCodeN3": "498", "countryCodeT3": "NDA")
+( "country": "Republic of South Sudan", "countryCode": "SS", "countryIsOcodeN3": "728", "countrycodeT3": "SSD")
+"country": "Republic of Sudan", "countryCode": "SD", "countryISOCodeN3": "729", "countrycodeT3": "SDN"},
+I "country": "Reunion", "countryCode": "RE", "countryISOCodeN3": "638", "countryCodeT3": "REU") ,
+f "country": "Romania", "countryCode": "RO", "countryISOCodeN3": "642", "countryCodeT3": "ROM") ,
+( "country": "Russian Federation", "countryCode": "RU", "countryISOCodeN3": "643", "countryCodeT3": "RUS")
+"country": "Rwanda", "countryCode": "RW", "countryISOCodeN3": "646", "countryCodeT3": "RHA") ,
+( "country": "Saint Barthélemy (St. Barts)", "countryCode": "BL", "countryISOCodeN3": "652", "countryCodeT3": "BLM")
+<"country": "Saint Kitts and Nevis", "countryCode": "KN", "countryISOCodeN3": "659", "countryCodeT3": "KNA")
+f "country": "Saint Lucia", "countryCode": "LC", "countryISOCodeN3": "662", "countryCodeT3": "LCA") ,
+("country": "Saint Martin (French Part)", "countryCode": "MF", "countryISOCodeN3": "663", "countryCodeT3": "HAF") ,
+( "country": "Saint Pierre and Miquelon", "countryCode": "PM", "countryISOCodeN3": "666", "countryCodeT3": "SPM")
+t"country": "Saint Vincent and the Grenadines", "countryCode": "VC", "countryISOCodeN3": "670", "countryCodeT3": "VCT") ,
+( "country": "Samoa", "countryCode": "WS", "countryISOCodeN3": "882", "countryCodeT3": "WSM")
+"country": "San Marino", "countryCode": "SM", "countryISOCodeN3": "674", "countryCodeT3": "SHR")
+("country": "Sao Tome and Principe", "countryCode": "ST", "countryI5OCodeN3": "678", "countryCodeT3": "STP")
+( "country": "Saudi Arabia", "countryCode": "SA", "countryISOCodeN3": "682", "countryCodeT3": "SAU")
+("country": "Senegal", "countryCode": "SN", "countryISOCodeN3": "686", "countryCodeT3": "SEN")
+f "country": "Serbia", "countryCode": "RS", "countryISOCodeN3": "688", "countryCodeT3": "SRB")
+["country": "Seychelles", "countryCode": "SC", "countryISOCodeN3": "690", "countryCodeT3": "SYC")
+( "country": "Sierra Leone", "countryCode": "SL", "countryISOCodeN3": "694", "countryCodeT3": "SLE")
+f"country": "Singapore", "countryCode": "SG", "countryISOCodeN3": "702", "countryCodeT3": "SGP")
+("country": "Sint Maarten (Dutch Part)", "countrycode": "SX", "countryISOCodeN3": "534", "countryCodeT3": "SXM") ,
+( "country": "Slovakia", "countryCode": "SK", "countryISOCodeN3": "703", "countryCodeT3": "SVK"> ,
+("country": "Slovenia", "countryCode": "SI", "countryISOCodeN3": "705", "countryCodeT3": "SVN")
+("country": "Solomon Islands", "countryCode": "5B", "countryISOCodeN3": "090", "countryCodeT3": "SLB"). I
+f "country": "Somalia", "countryCode": "50", "countryISOCodeN3": "706", "countryCodeT3": "SOM")
+"country": "South Africa", "countryCode": "ZA", "countryISOCodeN3": "710", "countryCodeT3": "ZAF") ,
+"country": "South Georgia and the South Sandwich Islands", "countrycode": "GS", "countryISOCodeN3": "239", "countryCodeT3": "SG5"
+"country": "Spain", "countryCode": "ES", "countryISOCodeN3": "724", "countryCodeT3": "ESP")
+f "country": "Sri Lanka", "countryCode": "LK", "countryISOCodeN3": "144", "countryCodeT3": "LKA")
+"country": "State of Libya", "countryCode": "LY", "countryISOCodeN3"; 1 "434", "countryCodeT3"; "LBY")
+"country": "State of Palestine", "countryCode": "P5", "countryISOCodeN3": "275", "countryCodeT3": "PSE")
+"country": "Suriname", "countryCode": "SR", "countryISOCodeN3";| "740", "countryCodeT3": "SUR")
+"country": "Svalbard and Jan Mayen", "countryCode": ""5]", "countryIsOCodeN3": "744", "cauntryCodeT3": "S]M")
+("country": "Sweden", "countryCode": "SE", "countryISOCodeN\3": "752", "countryCodeT3":\ "SHE")
+("country": "Switzerland", "countryCode": "CH", "countryISOCodeN3": "756", "countrycodeT3": "CHE")
+"country": "Syrian Arab Republic", "countryCode": "SY", "countryISOCodeN3": "760", "countrycodeT3": "SYR")
+( "country": "Taiwan", "countryCode": "TW", "countryISOCodeN3": "158", "countryCodeT3": "TIN")
+"country": "Tajikistan", "countryCode": "TJ", "countryI50CodeN3": "762", "countryCodeT3"; "TJK")
+"country": "Thailand", "countryCode": "TH", "countryISOCodeN3": "764", "countryCodeT3": "THA")
+"country": "Timor-Leste", "countryCode": "TP", "countryIsOCodeN3": "626", "countrycodeT3": "THP")
+"country": "Togo", "countryCode": "TG", "countryISOCodeNl3": "768", "countryCodeT3": "TGO")
+country": "Tokelau", "countryCode": "TK", "countryISOCodeN3": "772", "countryCodeT3": "TKL-)
+country"; "Tonga", "countryCode": "TO", "countryIsOCode₩3": "776", "countrycodeT3": "TON")
+"country": "Trinidad end Tobogo", "countryCode": "TT", "countryISOCodeN3": "780", " countryCodeT3": TO")
+"country": "Tunisia", "countryCode": "TN", "countryISOCodeN3": "788", ""countryCodeT3": "TUN")
+"country"; "Turkey", "countryCode": "TR", "countryISOCodeN3": "792", "countryCodeT3": "TUR"},
+< "country": "Turkmenistan", "countryCode": "TM", "countryISOCodeN3": "795", "countryodeT3": "TKM")
+("country": "Turks and Caicos Islands", "countryCode": "TC", "countryISOCodeN3": "796", "countryCodeT3": "TCA")
+( "country": "Tuvalu", "countryCode": "TV", "countryISOCodeN3": "798", "countryCodeT3": "TUV") ,
+"country": "Uganda", "countryCode": "UG", "countryISOCodeN3": "800", "countryCodeT3": "UGA") ,
+"country": "Ukraine", "countryCode": "UA", "countryISOCodeN3": "804", "countryCodeT3": "UKR")
+( "country": "United Arab Emirates", "countryCode": "AE", "countryISOCodeN3": "784", "countryCodeT3": "ARE")
+( "country": "United Kingdom", "countryCode": "GB", "countryISOCodeN3": "826", "countryCodeT3"; "GBR")
+< "country": "United Republic of Tanzania", "countryCode": "TZ", "countryISOCodeN3": "834", "countryCodeT3": "TZA")
+("country": "United States", "countryCode": "US", "countryISOCodeN3": "840", "countryCodeT3": "USA") ,
+"country": "Uruguay", "countryCode": ""Y", "countryISOCodeN3": "858", "countryCodeT3": "URY") ,
+( "country": "Uzbekistan", "countryCode": "UZ", "countryISOCodeN3": "860", "countryCodeT3": "UZB")
+"country": "Vanuatu", "countryCode": "VU", "countryISOCodeN3": "548", "countryCodeT3": "VUT")
+f "country": "Vatican City State", "countryCode": "VA", "countryISOCodeN3": "336", "countryCodeT3": "VAT") ,
+f"country": "Vietnam", "countryCode": "VN", "countryISOCodeN3": "704", "countryCodeT3": "VNM">
+( "country": "Virgin Islands, U.S.", "countryCode": "VI", "countryISOCodeN3": "850", "countryCodeT3": "VIR">,
+( "country": "Western Sahara", "countryCode": "EH", "countryISOCodeN3": "732", "countryCodeT3": "ESH"),
+( "country": "Yemen", "countryCode": "YE", ""ountryISOCodeN3": "886", "countrycodeT3": "YEM")
+
+
+("country": "Zambia", "countryCode": "ZM", "countryISOCodeN3": "894", "countryCodeT3": "ZMB">
+
+
+("country": "Zimbabwe", "countryCode": "zW", "countryISOCodeN3": "716", "countryCodeT3": "ZWE"}
+]

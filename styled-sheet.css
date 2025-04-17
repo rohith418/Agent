@@ -1,0 +1,61 @@
+Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> styled-table {
+... 
+... 
+... border-collapse: collapse;
+... margin: 25px Ø;
+... font-size: 0.9em;
+... font-family: Tahoma, Geneva, sans-serif !important;
+... min-width: 400px;
+... box-shadow: e 0 20px Tgball, 0, g, 0.15);
+... }
+... 
+... .styled-table-td{
+... 
+... padding: 15px !important;
+... }
+... 
+... .styled-table-thead-td{
+... background-color: #4294f8 !important;
+... color: #ffffff !important;
+... font-weight: bold !important;
+... font-size: 13px !important;
+... border: 1px solid #54585d !important;
+... }
+... 
+... .styled-table-tbody-td {
+... padding: 15px !important;
+... color: #636363 !important;
+... border: lpx solid #dddfel !important;
+... }
+... 
+... .styled-table tbody tr {
+... background-color: #f9fafb !important;
+... }
+... t.styled-table tbody tr:nth-child(odd) 
+... {
+... background-color: #ffffff!important;
+... }
+input:not([type=checkbox],[type=radio]), select, textarea(
+margin-bottom:0px !important;
+}
+label>:where(input,selecttextarea){
+margin-top: 0px limportant;
+}
+
+
+:root {
+
+--pico-form-element-spacing-vertical: 0.25rem !important;
+}
+#overlaywait{
+position: fixed;
+top: 0;
+left: ;
+width: 100%;
+height: 100%;
+
+background: rgba(0,0,0,0.5);
+display: none;
+z-index: 1000;

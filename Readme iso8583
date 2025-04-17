@@ -1,0 +1,103 @@
+## What is 1508583 Standard
+
+
+It is the International Organization for Standardization standard for systems that exchange electronic transactions initiated by cardholders using payment cards (Credit/Debit) IS0 8583 is an international standard fori financial transaction card originated
+interchange messaging. IS0 8583 messages capture rich data which is critical for effective data analytics.
+Different systems (POS, Payment Gateway, Acquirer, Network,
+Issuer or Processor, etc.,) involved in a card transaction can exchange information
+in
+
+
+IS0 Message is sent/received over
+This standard has also evolved over the years to remain updated with newer and safer payment methods. The latest version of this standard is
+D TCP protocols
+I508583 Message can be ASCII (BCD-Binary Coded Decimal)/EBCDIC
+an interoperable manner.
+Extended Binary Coded Decimals Interchange Code
+called IS0 8583: 2003.
+### Card Transaction Journey
+
+
+All Card transactions will follow the I50 8583 message travels from a source to a destination. For example, when you swipe your card in POS machine, the POS machine initiates an IS0 8583 message that finally reaches the issuer/processor via the acquirer and the
+network scheme.
+In response, the issuer will initiate another I5O 8583 message (indicating success or failure) to respond to the: POS machine
+a
+"*Following Image illustrates the flow:".
+![Card Transaction Journey](card_trans_flow.png)
+What do we have in I508583 Message?
+#
+When we are sending a I508583 message to receiving system, first we need to send length of the complete message (Includes header and body).
+In general message header length is 22 bytes, which will have source and destination ids.
+Message body is defined below.
+If a message body is 150 bytes and header is 22 bytes then
+Receiving system also first reads first two bytes as length of message and then
+as part
+as
+
+
+of message transmission we will be sending 172
+first 2 bytes transmission to receiving system,
+Once the full message is received then it devides bytes into header and body.
+sCans rest of the bytes stream till all the lenght Of the message is received.
+In above example First 22 bytes are header and the rest 150 bytes are message body.
+
+
+! [Message Format Image](iso8583_MSGl.png)
+
+
+###IS08583
+message body is made up of the following components:
+
+
+" *Message Type Indicator (MTI):""
+MTI indicates the purpose of the message
+Its a 4 digit code, each digit has its own
+defination.
+MTI also contains information about who originated the message (acquirer or issuer).
+Example:
+An acquirer requesting that the payment for a purchase be authorized by the issuer. Here Issuer responds that the payment has been authorized or declined.
+⁃ Similarly, A message that was initiated by the issuer to reverse a payment (in case of a payment dispute)..
+... cmd
+First 4 digits: MIT - Message Information Type
+digit - Version 1987 (0) 1993 (1) 2003 (2)
+Nmt
+digit
+Type of Trans 1: Authorization, 2:ReAuth/Advice 4:Reversal/chargebacks
+digit - 0:Request 1:Response 2:Repeat Request
+digit - message sender (0/1-Acquirer or 2/3-issuer/issuer repeated)
+""Bitmap: ""
+Its not mandatory that every field should be present in
+⁃ Receiving system has to parse the bitmap information in two parts
+IS08583 message. So, Bitmap helps by indicating which data elements are actually present in message body
+Primary bitmap
+First 8 bytes of data into 64 bits. i.e., It can give presence of 64 Data elements.
+Here each byte is 8 bits, so Primary bit map will have 64 bits
+Each bit represents presence of that particular postion data element on/off (1/0).
+⁃ Example: bit in position two is on (1) means DE2 is present, which is a PAN.
+⁃ Bit at position one represents presence of Secondary bitmap. if position one is on then there are more data elements beyond 64
+P zero (0) indicates the absence of a data element in the assigned position
+Secondary Bitmap: if I5O message is having
+anyone data element between 65 to 128 then secondary bitmap is mandatory
+Here also same as
+primary bitmap,
+next
+
+
+bytes represents secondary bitmap, each byte is 8 bits,
+So, it will give presence of data elements between 65 to 125
+
+
+""Data Elements:""
+⁃ Data elements part of message contains actual data.
+As
+per original ISO 8583:1987 standard, there are up to 128 data elements specified
+Later on versions it was extended to 192 data elements (As of now most of the systems are still using only 128)
+All these data fields put together cover all the use cases
+including payments, reversals, settlements, and even administrative activities.
+Information about the card number (called primary account number), card expiry date, payment amount, Payment date and time,
+conversion rate, message authentication code (a field that is relevant if the user was asked to enter
+passed as data elements in I50 8583 and each data element has a defined position.
+Each data field can either be of a fixed or variable length.
+
+
+![Image of Key Data Fields in IS08583](keydatafields-iso8583.png)

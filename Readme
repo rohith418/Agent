@@ -1,0 +1,113 @@
+* VirtuPay Services
+
+
+It provides services for commercial card customers for their account payables through virtual card payments,
+It has 3 Major services alogn with other supporting components in it.
+1.Virtual Card APIs:
+Generate a new Virtual Card, Update virtual card PAN/Expiry data, limits etc
+2.Virtual Card Auth Service:
+It will provide secured TCP Services to get
+3.Virtual Card Settlement Service: This service processes all clearing files received
+Link with new Original PAN, Cancel virtual card APIS
+3
+a virtual card authroised oy processing IS0 Message received from card proces5ing server, here in Hells Fargo case, its TSYS.
+Jaily basis from networks like Visa/Mastercard (TSYS Sends these files on behalf of networks) and responds back on with acknowledgement on settlement.
+on
+
+
+## Installation
+
+
+Get the master branch code from git
+bash
+
+
+BOP Sites
+
+
+tpsgunup.wellsrargo.com/raw/u692495/wvcp_vcg/master/README.md?token=GHSAT0AAAAAAAADUBPZBOUVIQ6D4T7BJSUMZ57LWDQ
+Software Market
+t Orchestra IDP
+DWAND
+Teamworks-WFIP
+Design Patterns
+Architecture
+Crown Jewel
+Software
+WF-References
+[ CEO Demo Home
+
+
+artifactory
+
+
+generatedata.com
+
+
+Calcs
+
+
+X WF-RIA
+
+
+L Lucene Query Build.
+
+
+clone https://github.Wellsfargo.Com/u692495/ /wvcp. -vcg
+Now that
+
+
+you have cloned the repository, install require python packages for your dev environment
+Bo to root directly and USe pip install
+bash
+pip install -r
+requirements-dev.txt
+
+
+## Run VirtuPay APIs Service
+
+
+API Service provides all requeired REST APIs for generating, updating and cancelling a virtual card
+
+
+To run the project, you can go to root folder and run the api-server bat file from your command prompt.
+
+
+bash
+c:\users\u0oxYZ\virtupay> api-server.bat
+
+
+### To test the api's you can use dev tools
+
+
+got to devtools folder and run the dev tools
+bash
+<root folder>\devtools> pipenv install
+<root folder>\devtools> pipenv run main.py
+
+
+This will run a http://localhost:3210 server dev tools
+
+
+You can crete a new VCN and update by editing VCN to test the VirtuPay APis-
+
+
+## VirtuPay Auth Service:
+
+
+This Service is IS08583 Authotization Services (Clients) which will connect to TSYS I508583 Server.
+For Authrorization flow and details refer [a relative link] (README-AUTHSERVICE. md) READHE, AUTHSERVICE.md:
+
+
+### Run Authentication Services:
+
+
+In Production Auth Services connects to TSYS ISO Server.
+
+
+To run the our auth Services in Dev Environments follow the steps:
+Start IS08583 Server Simulator
+bash
+<<root folder>>I508583-server.bat
+
+To test Auth Service you can go to test auth page, provide required VCN, Exp and CVV details

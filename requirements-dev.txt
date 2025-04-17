@@ -1,0 +1,19 @@
+pydantic
+
+configparser
+
+psycopg2
+
+argparse
+
+pycryptodome
+
+fastapi [uvicorn]==0.99.1
+
+pyjks
+
+python-dateutil
+
+python-fasthtml==0.4.5
+
+starlette==0.33

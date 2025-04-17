@@ -1,0 +1,2106 @@
+MCC_CODES = [
+
+"code" : "0742", "cat": "Services", "subcat": "Agricultural Services", "desc": "VETERINARY SERVICES"),
+
+{ { "code" : "0743", "cat": "Services", "subcat": "Agricultural Services", "desc": "WINE PRODUCERS"),
+
+{"code": "0744", "cat": "Services", "subcat": "Agricultural Services", "desc": "CHAMPAGNE PRODUCERS"},
+
+{"code": "0763", "cat": "Services", "subcat": "Agricultural Services", "desc": "AGRICULTURAL COOPERATIVES"},
+
+{"code": "0788", "cat": "Services", "subcat": "Agricultural Services", "desc": "LANDSCAPING AND HORTICULTURAL SERVICES"},
+
+{"code": "1520", "cat": "Services", "subcat": "Contracted Services", "desc": "GENERAL CONTRACTORS/RESIDENTIAL BUILDINGS"},
+
+{ "code": "1711", "cat": "Services", { " "subcat": "Contracted Services", "desc": "HEATING, PLUMBING, AIR CONDITIONING CONTRACTORS"},
+
+code": "1731", "cat": "Services", "subcat": "Contracted Services", "desc": "ELECTRICAL CONTRACTORS"},
+
+{ "code": "1740", "cat": "Services", "subcat": "Contracted Services", "desc": "INSULATION, MASONRY, PLSTER, STONEWRK, TILESET CNTRCTR"},
+
+{ "code" : "1758", "cat": "Services", "subcat": "Contracted Services", "desc": "CARPENTRY CONTRACTORS"},
+
+{ "code": "1761", "cat": "Services", "subcat": "Contracted Services", "desc": "ROOFING AND SIDING, SHEET METAL WORK CONTRACTORS"},
+
+{"code": "1771", "cat": "Services", "subcat": "Contracted Services", "desc": "CONCRETE WORK CONTRACTORS"},
+
+{"code": "1799", "cat": "Services", "subcat": "Contracted Services", "desc": "CONTRACTORS, SPECIAL TRADE-NOT ELSEWHERE CLASSIFIED"),
+
+{"code": "2741", "cat": "Services", {"code": "2791", "cat": "Services", "subcat": "Contracted Services", "desc": "MISCELLANEOUS PUBLISHING AND PRINTING"}, "subcat": "Contracted Services", "desc": "TYPESETTING, PLATE MAKING AND RELATED SERVICES"),
+
+{"code": "2842", "cat": "Services", "subcat": "Contracted Services", "desc": "SANITATION, POLISHING AND SPECIALITY CLEANING PREP"),
+
+{ "code" : "3000", "cat": "Travel", "subcat": "Airlines", "desc": "UNITED AIRLINES"),
+
+{ "code": "3001", "cat": "Travel", "subcat": "Airlines", "desc": "AMERICAN AIRLINES"),
+
+{ "code": "3002", "cat": "Travel", "subcat": "Airlines", "desc": "PAN AM"),
+
+{"code": "3003", "cat": "Travel", "subcat": "Airlines", "desc": "EUROFLY"},
+
+{ "code" : "3005", "cat": "Travel", "subcat": "Airlines", "desc": "BRITISH AIRWAYS"),
+
+{"code": "3006", "cat": "Travel", f"code" "subcat": "Airlines", "desc": "JAPAN AIR LINES"),
+{"code": "3007", "cat": "Travel", "subcat": "Airlines", "desc": "AIR FRANCE"),
+
+{"code": "3008", "cat": "Travel", "subcat": "Airlines", "desc": "LUFTHANSA"),
+
+{"code": "3009", "cat": "Travel", "subcat": "Airlines", "desc": "AIR CANADA"),
+
+{"code": "3018", "cat": "Travel", "subcat": "Airlines", "desc": "ROYAL DUTCH AIRLINES (KLM)"),
+
+{"code": "3011", "cat": "Travel", "subcat": "Airlines", "desc": "AEROFLOT"),
+
+{"code": "3012", "cat": "Travel", "subcat": "Airlines", "desc": "QANTAS"),
+
+{"code": "3013", "cat": "Travel", "subcat": "Airlines", "desc": "ALITALIA"),
+
+{"code": "3014", "cat": "Travel", "subcat": "Airlines", "desc": "SAUDI ARABIAN AIRLINES"},
+
+{"code": "3015", "cat": "Travel", "subcat": "Airlines", "desc": "SWISS AIR"},
+
+{"code": "3016", "cat": "Travel", "subcat": "Airlines", "desc": "SCANDINAVIAN AIRLINE SYSTEM (
+
+SAS) "), {"code": "3017", "cat": "Travel", "subcat": "Airlines", "desc": "SOUTH AFRICAN AIRWAYS"),
+
+{"code": "3018", "cat": "Travel", "subcat": "Airlines", "desc": "VARIG (BRAZIL)"),
+
+{"code": "3019", "cat": "Travel", "subcat": "Airlines", "desc": "EASTERN"),
+
+{"code": "3020", "cat": "Travel", "subcat": "Airlines", "desc": "AIR INDIA"),
+
+{"code": "3021", "cat": "Travel", "subcat": "Airlines", "desc": "AIR ALGERIE"),
+
+{"code": "3022", "cat": "Travel", "subcat": "Airlines", "desc": "PHILIPPINE AIRLINES"),
+
+("code": "3023", "cat": "Travel", "subcat": "Airlines", "desc": "MEXICANA"),
+
+{"code": "3024", "cat": "Travel", "subcat": "Airlines", "desc": "PAKISTAN INTERNATIONAL"),
+
+{"code": "3025", "cat": "Travel", "subcat": "Airlines", "desc": "AIR NEW ZEALAND LIMITED INTERNATIONAL"),
+
+{"code": "3026", "cat": "Travel", "subcat": "Airlines", "desc": "EMIRATES AIRLINES (ABBR. EMIRATES)"),
+
+{"code": "3027", "cat": "Travel", "subcat": "Airlines", "desc": "UNION DE TRANSPORTS AERIENS"),
+
+{"code": "3028", "cat": "Travel", "subcat": "Airlines", "desc": "AIR MALTA"),
+
+{"code": "3029", "cat": "Travel", "subcat": "Airlines", "desc": "SNBRU AIR"),
+
+{"code": "3030", "cat": "Travel", "subcat": "Airlines", "desc": "AEROLINEAS ARGENTINAS")
+{"code": "3031", "cat": "Travel", "subcat": "Airlines", "desc": "OLYMPIC AIRWAYS"),
+
+{"code": "3032", "cat": "Travel", "subcat": "Airlines", "desc": "EL AL"},
+
+{"code": "3033", "cat": "Travel", "subcat": "Airlines", "desc": "ANSETT AIRLINES"),
+
+{"code": "3035", "cat": "Travel", "subcat": "Airlines", " desc": "TAP (PORTUGAL)"),
+
+{"code": "3036", "cat": "Travel", "subcat": "Airlines", "desc": "VASP (BRAZIL)").
+
+{"code": "3037", "cat": "Travel", "subcat": "Airlines", "desc": "EGYPTAIR"),
+
+{"code": "3038", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3039", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3048", "cat": "Travel",
+
+{"code": "3041", "cat": "Travel", { " "subcat": "Airlines", "desc":
+
+code": "3042", "cat": "Travel", {"code": "3043", "cat": "Travel", "subcat": "Airlines", "desc": "FINNAIR"),
+
+{"code": "3044", "cat": "Travel", "subcat": "Airlines", "desc": "AER LINGUS"), "subcat": "Airlines", "desc": "
+
+{"code": "3045", "cat": "Travel", "subcat": "Airlines", "desc": "NIGERIA AIRWAYS"),
+
+("code": "3846", "cat": "Travel", "subcat": "Airlines", "desc": "CRUZERIO DO SUL (BRAZIL)"),
+
+{"code": "3847", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3848", "cat": "Travel", "subcat": "Airlines", "desc": "ROYAL AIR MAROC"),
+
+{"code": "3049", "cat": "Travel", "subcat": "Airlines", "desc" : "TUNIS AIR"),
+
+{"code": "3058", "cat": "Travel", "subcat" "Airlines", "desc": "ICELANDAIR",
+
+{"code": "3051", "cat": "Travel", {"code": "3852", "cat": "Travel", "subcat": "Airlines", "desc": "AUSTRIAN AIRLINES"), "subcat" : "Airlines", "desc": "LAN AIR"),
+
+{"code": "3053", "cat": "Travel",
+
+{"code": "3054", "cat": "Travel", SPAIN)"}, "subcat": "Airlines", "desc": "LADECO (CHILE)",
+
+{"code": "3855", "cat": "Travel", "subcat": "Airlines", "desc": "LAB (BOLIVIA)")
+
+{"code": "3058", "cat": "Travel", "subcat": "Airlines", "desc": "DELTA",
+
+{"code": "3059", "cat": "Travel", "subcat": "Airlines", "desc": "DBA AIR"),
+
+{"code": "3060", "cat": "Travel", {"code": "3061", "cat": "Travel", "subcat": "Airlines", "desc": "NORTHWEST"), "subcat": "Airlines", "desc": "CONTINENTAL"),
+
+{"code": "3062", "cat" "Travel", "subcat": "Airlines", "desc": "HLX"),
+
+{"code": "3063", "cat" "Travel", "subcat": "Airlines", "desc": "U.S. AIRWAYS (USAIRMYS)"),
+
+{"code": "3064", "cat": "Travel", "subcat": "Airlines", "desc": "ADRIA AIRWAYS (ABBR: ADRIA)"),
+
+"PHILIPPINE AIRLINES"),
+
+"Airlines", "desc": "MEXICANA"),
+
+"PAKISTAN INTERNATIONAL"),
+
+"AIR NEW ZEALAND LIMITED INTERN
+
+"EMIRATES AIRLINES (ABBR. EMIRA
+
+"UNION DE TRANSPORTS AERIENS"},
+
+"AEROLINEAS ARGENTINAS"),
+
+"KUMAIT AIRWAYS"),
+
+"AVIANCA"),
+
+"subcat": "Airlines", "desc": "
+
+GULF AIR (BAHRAIN)"),
+
+"BALKAN-BULGARIAN AIRLINES"),
+
+AIR LANKA (ABBR. AIR LANKA)",
+
+"TURKISH AIRLINES"),
+
+"subcat": "Airlines", "desc": "AVIACO (
+
+{"code": "3065", "cat" "Travel", "subcat": "Airlines", "desc": "AIR INTER"),
+{"code": "3066", "cat": "Travel", "subcat": "Airlines", "desc": "SOUTHWEST AIRLINES"),
+
+{"code": "3067", "cat": "Travel",
+
+{"code": "3068", "cat": "Travel", "subcat": "Airlines", "desc": "AIR ASTANA"),
+
+{"code": "3070", "cat": "Travel", "subcat": "Airlines", "desc": "FLYDUBAI"),
+
+{"code": "3071", "cat": "Travel", "subcat": "Airlines", "desc": "AIR BRITISH COLUMBIA"),
+
+{"code": "3875", "cat": "Travel", "subcat": "Airlines", "desc": "SINGAPORE AIRLINES").
+
+{"code": "3076", "cat": "Travel", "subcat": "Airlines", "desc": "AEROMEXICO"),
+
+{"code": "3077", "cat": "Travel", "subcat": "Airlines", "desc": "THAI AIRWAYS"),
+
+{"code": "3078", "cat": "Travel", "subcat": "Airlines", "desc": "CHINA AIRLINES"),
+
+{"code": "3079", "cat": "Travel", "subcat": "Airlines", "desc": "
+
+{"code": "3080", "cat": "Travel", "subcat": "Airlines", "desc": "SWOOP"),
+
+{"code": "3081", "cat": "Travel", "subcat": "Airlines", "desc": "XIAMEN"),
+
+{"code": "3082", "cat": "Travel", "subcat": "Airlines", "desc": "KOREAN AIRLINES"),
+
+{"code": "3063", "cat": "Travel", "subcat": "Airlines", "desc": "AIR AFRIQ"),
+
+{"code": "3084", "cat": "Travel", "subcat": "Airlines", "desc": "EVA AIRWAYS (BR)"),
+
+{"code": "3885", "cat": "Travel", {" "subcat": "Airlines", "desc": "MIDWEST"),
+
+code": "3887", "cat": "Travel", {"code" "3888", "cat": "Travel", "subcat": "Airlines", "desc": "METRO AIRLINES"), "subcat": "Airlines", "desc": "CROATIA"),
+
+{"code"
+
+{"code" "3090", "cat": "Travel", "subcat": "Airlines", "desc": " "subcat": "Airlines", "desc": "UNI AIRWAYS"),
+
+"3889", "cat": "Travel",
+
+{"code": "3094", "cat": "Travel", "subcat": "Airlines", "desc": "ZANBIA AIRWAYS"),
+
+{"code":"3095", "cat" "Travel", "subcat": "Airlines", "desc"
+
+{"code": "3096", "ca "Travel", "subcat": "Airlines", "desc": "AIR ZIMBABWE"),
+
+{"code": "3097", "Travel", "subcat": "Airlines", "desc": "SPANAIR"),
+
+{"code": "3098", "ca "Travel", "subcat": "Airlines", "desc": "ASIANA"),
+
+{"code": "3099", "ca "Travel", "subcat": "Airlines", "desc": "CATHAY PACIFIC",
+
+{"code": "3100" "Travel", "subcat": "Airlines", "desc"
+
+{"code": "3102", "Travel", "subcat" "Airlines", "desc":"IBERIA"),
+
+{"code": "3183", avel", "subcat": "Airlines", "desc": "GARUDA (INDONESIA)",
+
+("code": "3106", vel", "subcat": "Airlines", "desc":
+
+{"code": "3111", "ca "subcat" "Airlines", "desc": "BRITISH MIDLAND"),
+
+"subcat": "Airlines", "desc": "VANGUARD AIRLINES (ABBR: VANGUARD)"},
+
+JETSTAR AIRWAYS JETSTAR"),
+
+TRANSAERO (ABER, TRANSAERO)"},
+
+"WARDAIR (CANADA)"),
+
+"MALAYSIAN AIRLINE SYSTEM"),
+
+{"code": "3112", "cat": "Tra "subcat": "Airlines", "desc": "
+
+("code": "3117", "cat" "Trave WINDWARD ISLAND" , "subcat": "Airlines", "desc":
+
+"BRAATHENS S.A.F.E. (NORWAY)"},
+
+{"code": "3125", "cat": "Travel", "subcat": "Airlines", "desc": "TAN AIRLINES"),
+
+{"code": "3127", "cat": "Travel", "subcat": "Airlines", "desc": "TACA INTERNATIONAL",
+
+"VENEZOLANA INTERNATIONAL DE AVIACION (VIASA)"),
+
+{"code": "3129", "cat" "Travel", "subcat": "Airlines", "desc": "SURINAM AIRWAYS", {"code": "3130", "cat": "Travel", "subcat": "Airlines", "desc":
+
+"SURMORLD INTERNATIONAL AIRWAYS"),
+
+("code": "3131", "cat" "Travel", "subcat" "Airlines", "desc": "VLH AIRLINES - VU),
+
+{"code": "3132", "cat": "Travel", "subcat": "Airlines", "desc": "FRONTIER"),
+
+("code": "3135", "cat": "Travel", "subcat": "Airlines", "desc": "SUDAN AIRWAYS"),
+
+{"code": "3136" , "cat": "Travel", "subcat" "Airlines", "desc": "QATAR AIRWAYS COMPANY M.L.L. (QATAR AIR)"),
+
+{"code": "3144", "cat": "Travel", "subcat": "Airlines", "desc": "VIRGIN ATLANTIC),
+
+{"code": "3146", "cat": "Travel", "subcat": "Airlines", "desc": "LUXAIR").
+
+("code": "3148", "cat": "Travel", "subcat"
+
+("code": "3151", "cat": "Travel", "subcat" "Airlines", "desc": "AIR LITTORAL S. A. (LITTORAL)"), "Airlines", "desc": "AIR ZAIRE"),
+{"code": "3156", "cat": "Travel", "subcat": "Airlines", "desc": "GO FLY LTD. GOFLY"),
+
+("code": "3159", "cat": "Travel", "subcat": "Airlines", "desc": "PROVINCETOWN-BOSTON AIRWAYS (PBA)"),
+
+{"code": "3161", "cat": "Travel", "subcat": "Airlines", "desc": "ALL NIPPON AIRWAYS"),
+
+{"code": "3164", "cat": "Travel", "subcat": "Airlines", "desc": "NORONTAIR"),
+
+("code": "3167", "cat": "Travel", "subcat": "Airlines", "desc": "AERO CONT"),
+
+("code": "3168", "cat": "Services", "subcat": "Airlines", "desc": "Hainan Airlines"},
+
+{"code": "3171", "cat": "Travel", "subcat": "Airlines", "desc": "CANADIAN AIRLINES"), {"
+
+code": "3172", "cat": "Travel", "subcat": "Airlines", "desc": "NATION AIR"),
+
+{"code": "3174", "cat": "Travel", "subcat": "Airlines", "desc": "JETBLUE AIRWAYS (JETBLUE)"),
+
+{"code": "3175", "cat": "Travel", "subcat": "Airlines", "desc": "MIDDLE EAST AIR"),
+
+("code": "3177", "cat": "Travel", "subcat": "Airlines", "desc": "AIRTRANS A"),
+
+{"code": "3178", "cat": "Travel", "subcat": "Airlines", "desc": "MESA AIR"),
+
+{"code": "3188", "cat": "Travel", "subcat": "Airlines", "desc": "WESTJET AIRLINES"), {"code": "3181", "cat": "Travel", "subcat": "Airlines", "desc": "MALEV HUNGARIAN AIRLINES"),
+
+{"code": "3182", "cat": "Travel", "subcat": "Airlines", "desc": "LOT POLISH AIRLINES"),
+
+{"code": "3183", "cat": "Travel", "subcat": "Airlines", "desc": "OMAN AIR"},
+
+("code": "3184", "cat": "Travel", "subcat": "Airlines", "desc": "LIAT"),
+
+("code": "3185", "cat": "Travel", "subcat": "Airlines", "desc": "LAV LINEA AEROPOSTAL VENEZOLANA"),
+
+{"code": "3186", "cat": "Travel", "subcat": "Airlines", "desc": "LAP LINEAS AEREAS PARAGUAYAS"),
+
+{"code": "3187", "cat": "Travel", "subcat": "Airlines", "desc": "LACSA (COSTA RICA)"),
+
+{"code": "3188", "cat": "Travel", "subcat": "Airlines", "desc": "VIRGIN EXPRESS"),
+
+("code": "3190", "cat": "Travel", "subcat": "Airlines", "desc": "JUGOSLAV AIR",
+
+{"code": "3191", "cat": "Travel", "subcat": "Airlines", "desc": "ISLAND AIRLINES"),
+
+{"code": "3192", "cat": "Travel", "subcat": "Airlines", "desc": "IRAN AIR"),
+
+("code": "3193", "cat": "Travel", "subcat": "Airlines", "desc": "INDIAN AIRLINES"),
+
+{"code": "3196", "cat": "Travel", "subcat": "Airlines", "desc": "HAWAIIAN AIR),
+
+("code": "3197", "cat": "Travel", "subcat": "Airlines", "desc": "HAVASU AIRLINES"),
+
+{"code": "3200", "cat": "Travel", "subcat": "Airlines", "desc": "GUYANA AIRHAYS"),
+
+{"code": "3204", "cat" "Travel", "subcat": "Airlines", "desc": "FREEDOM AIRLINES"),
+
+{"code": "3206", "cat" "Travel", "subcat": "Airlines", "desc": "CHINAEAST"),
+
+{"code": "3211", "cat": "Travel", "subcat": "Airlines", "desc" "NORWEGIAN"),
+
+{"code": "3212", "cat": "Travel", "subcat": "Airlines", "desc"
+
+"DOMINICANA DE AVIACION"),
+
+{"code" "3213", "cat" "Travel", "subcat" "Airlines", desc": "BRAATHENS REGIONAL AIR",
+
+{"code": "3217", "cat": "Travel", "subcat": "Airlines", "desc"
+
+{"code": "3219", "cat": "Travel", "subcat": "Airlines", "desc"
+
+{"code": "3220", "cat": "Travel", "subcat": "Airlines", "desc": "COMPANIA FAUCETT"),
+
+{"code": "3221", "cat": "Travel", "subcat": "Airlines", "desc"
+
+{"code": "3222", "cat": "Travel", "subcat": "Airlines", "desc": "COMMAND AIRWAYS"),
+
+("code": "3223", "cat": "Travel", "subcat": "Airlines", "desc": "COMAIR"),
+
+("code": "3226", "cat": "Travel", ("code": "3228", "cat": "Travel", "subcat": "Airlines", "desc": "SKYWAYS-SKYWAYS"), "subcat": "Airlines", "desc": "CAYMAN AIRWAYS"),
+
+{"code": "3229", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3231", "cat": "Travel", "subcat": "Airlines", "desc": "SAHSA (SERVICIO AERO DE HONDURAS)").
+
+("code": "3234", "cat": "Travel", "subcat": "Airlines", "desc": "BWIA INTERNATIONAL
+
+CSA CESKOSLOVENSKE AEROLINIE"),
+
+"COMPANIA PANAMENA DE AVIACION (COPA)"),
+
+"TRANSPORTES AERECS MILITARES ECUATORIANOS").
+
+"SAETA (SOCIEDAD ECUATORIANAS DE TRANSPORTES AERED)"
+
+{"code": "3236", "cat": "Travel", "subcat": "Airlines", "desc": "
+
+AIR ARABIA AIRLINE-AIR ARAB"),
+{"code": "3239", "cat": "Travel", "subcat": "Airlines", "desc": "BAR HARBOR AIRLINES"),
+
+{"code": "3248", "cat": "Travel", "subcat": "Airlines", "desc": "BAHAMASAIR"),
+
+{"code": "3241", "cat": "Travel", "subcat": "Airlines", "desc": "AVIATECA (GUATEMALA)"},
+
+{"code": "3242", "cat": "Travel", "subcat": "Airlines", "desc": "AVENSA"),
+
+{"code": "3243", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3245", "cat": "Travel", "subcat": "Airlines", "desc": "EASYJET"),
+
+{"code": "3246", "cat": "Travel", "subcat": "Airlines", "desc": "RYANAIR"},
+
+{"code": "3247", "cat": "Travel", "subcat": "Airlines", "desc": "GOL AIRLINES GOL"),
+
+{"code": "3248", "cat": "Travel", "subcat": " Airlines", "desc": "TAM AIRLINES TAM"),
+
+{"code": "3251", "cat": "Travel", "subcat": "Airlines", "desc": "ALOHA AIRLINES"),
+
+{"code": "3252", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3253", "cat": "Travel", "subcat": "Airlines", "desc": "AMERICA WEST"),
+
+{"code": "3256", "cat": "Travel", ( "subcat": "Airlines", "desc":
+
+"code": "3259", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3260", "cat": "Travel", "subcat": "Airlines", "desc":
+
+{"code": "3261", "cat": "Travel", {"code": "3263", "cat": "subcat": "Airlines", "desc": "AIR CHINA"),
+
+"Travel", {"code" : "3266", "cat": "Travel", "subcat": "Airlines", "desc": "ASERCA"),
+
+{"code" : "3267", "cat": "Travel", "subcat": "Airlines", "desc": "AIR SEYCHELLES"),
+
+("code": "3288", "cat": "Travel", "subcat": "Airlines", "desc": "subcat"
+
+("code": "3282", "cat": "Travel", : "Airlines", "desc": "AIR JAMAICA"), "subcat": "Airlines", "desc": "AIR DJIBOUTI"),
+
+{"code": "3285", "cat": "Travel", "subcat": "Airlines", "desc": "AERD PERU"),
+
+("code": "3286", "cat": "Travel", "subcat": "Airlines", "desc": "AERO, NICARAGUENSES"),
+
+{"code": "3287", "cat": "Travel", "subcat": "Airlines", "desc": "AERO COACH AVIATION"),
+
+{"code": "3292", "cat": "Travel",
+
+{"code": "3293", "cat": "Travel", "subcat": "Airlines", "desc": "EQUATORIANA"),
+
+{"code": "3294", "cat": "Travel", ("code": "3295", "cat": "Travel "subcat": "Airlines", "desc":
+
+("code": "3296", "cat": "Tra "subcat": "Airlines", "desc": "AIRBERLIN"),
+
+{"code": "3297", "cat": "Tra "subcat": "Airlines", "desc":
+
+("code": "3298", "cat": "Travel' subcat": "Airlines", "desc": "AIR MAURITIUS").
+
+("code": "3299", "cat": "Travel", "subcat": "Airlines", "desc": "WIDEROE'S FLYVESELSKAP"),
+
+("code": "3300", "cat": "Services", "subcat": "Car Rental", "desc": "AZUL AIR"),
+
+{"code": "3301", "cat": "Services", "subcat": "Car Rental", "desc": "Wizz Air"), ("code": "3302", "cat": "Services", "subcat": "Car Rental", "desc": "FLYBEAIR"),
+
+("code":"3303", "cat": "Services", "subcat" "Car Rental", "desc": "TIGERAIR"),
+
+"AUSTRIAN AIR SERVICE"),
+
+"ALM ANTILEAN AIRLINES"),
+
+"ALASKA AIRLINES INC."),
+
+"SPIRIT AIRLINES-SPIRIT"),
+
+"AIR PANAMA INTERNATIONAL"),
+
+"subcat": "Airlines", "desc":
+
+"CYPRUS AIRWAYS"),
+
+"ETHIOPIAN AIRLINES"),
+
+"subcat": "Airlines", "desc": "KENYA AIRWAYS"},
+
+2
+
+コ
+
+{"code" "3304", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code" {"code": "3306", "cat": "Services", "subcat" "Car Rental", "desc": "Airlines"), "3307", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+"TAROM ROMANIAN AIR TRANSPORT"),
+
+{"code": "3305", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{ "code": "3308", "cat": "Services", "subcat": "Car Rental", "desc": "CSAIR",
+
+{"code": "3309", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3318", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3311", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"), {"code": "3312", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+{"code": "3313", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3314", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+{"code": "3315", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+{"code": "3316", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3317", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3318", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3319", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+{"code": "3320", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+{"code": "3321", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3322", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3323", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3324", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3325", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3326", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+{"code": "3327", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3328", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+{"code": "3329", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3330", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3331", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3332", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3333", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"), {
+
+"code": "3334", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"},
+
+("code ": "3335", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"), {
+
+"code": "3336", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code" : "
+
+3337", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"), {
+
+"code": "3338", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3339", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"), {"
+
+code": "3340", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+("code": "3341", "cat": " Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3342", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3343", "cat": "Services", " subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3344", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3345", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3346", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3347", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3348", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3349", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3350", "cat": "Services", "subcat": "Car Rental", "desc": "Airlines"),
+
+{"code": "3351", "cat": "", "subcat": "Car Rental", "desc": "AFFILIATED AUTO RENTAL"),
+{"code": "3352", "cat": "", "subcat": "Car Rental", "desc": "AMERICAN INTERNATIONAL"),
+
+{"code": "3353", "cat": "", "subcat": "Car Rental", "desc": "BROOKS RENT A CAR"),
+
+{"code": "3354", "cat": "", "subcat": "Car Rental", "desc": "ACTION AUTO RENTAL"),
+
+{"code": "3355", "cat": "", "subcat": "Car Rental", "desc": "SIXT CAR RENTAL"),
+
+{"code": "3357", "cat": "", "subcat": "Car Rental", "desc": "HERTZ"),
+
+{"code": "3359", "cat": "", "subcat": "Car Rental", "desc": "PAYLESS CAR RENTAL"),
+
+{"code": "3360", "cat": "", "subcat": "Car Rental", "desc": "SNAPPY CAR RENTAL"),
+
+{"code": "3361", "cat": "", "subcat": "Car Rental", "desc": "AIRWAYS RENT-A-CAR"),
+
+{"code": "3362", "cat": "", "subcat": "Car Rental", "desc": "ALTRA AUTO RENTAL"},
+
+{"code": "3364", "cat": "", "subcat": "Car Rental", "desc": "AGENCY RENT-A-CAR"),
+
+{"code": "3366", "cat": "", "subcat": "Car Rental", "desc": "BUDGET RENT-A-CAR"),
+
+("code": "3368", "cat": "", "subcat": "Car Rental", "desc": "HOLIDAY RENT-A-CAR"),
+
+{"code": "3370", "cat": "", "subcat": "Car Rental", "desc": "RENT A WRECK"),
+
+{
+
+"code": "3374", "cat": "", "subcat": "Car Rental", "desc": "ACCENT RENT-A-CAR"),
+
+{"code": "3376", "cat": "", "subcat": "Car Rental", "desc": "AJAX RENT-A-CAR"),
+
+{"code": "3388", "cat": "", "subcat": "Car Rental", "desc": "TRIANGLE RENT A CAR"),
+
+{"code": "3381", "cat": "", "subcat": "Car Rental", "desc": "EUROPCAR"),
+
+{"code": "3385", "cat": "", "subcat": "Car Rental", "desc": "TROPICAL RENT-A-CAR"),
+
+{"code": "3386", "cat": "", "subcat": "Car Rental", "desc": "SHOWCASE RENTAL CARS"),
+
+{"code": "3387", "cat": "", "subcat": "Car Rental", "desc": "ALAMO RENT-A-CAR"),
+
+{"code": "3388", "cat": "", "subcat": "Car Rental", "desc": "MERCHANTS RENT-A-CAR"),
+
+{"code": "3389", "cat": "", "subcat": "Car Rental", "desc": "AVIS RENT A CAR"),
+
+{"code": "3390", "cat": "", "subcat": "Car Rental", "desc": "DOLLAR RENT A CAR"),
+
+{"code": "3391", "cat": "", "subcat": "Car Rental", "desc": "EUROPE BY CAR"),
+
+{"code": "3393", "cat": "", "subcat": "Car Rental", "desc": "NATIONAL CAR RENTAL"},
+
+{"code": "3394", "cat": "", "subcat": "Car Rental", "desc": " KEMWELL GROUP RENT-A-CAR"),
+
+{"code": "3395", "cat": "", "subcat": "Car Rental", "desc": "THRIFTY CAR RENTAL"),
+
+{"code": "3396", "cat": "", "subcat": "Car Rental", "desc": "TILDEN RENT-A-CAR"),
+
+{ "code": "3398", "cat": "", "subcat": "Car Rental", "desc": "ECONO CAR RENT-A-CAR"),
+
+{"code": "3408", "cat": "", "subcat": "Car Rental", "desc": "AUTO HOST CAR RENTAL"),
+
+{"code": "3405", "cat":" "subcat": "Car Rental", "desc": "ENTERPRISE RENT-A-CAR"),
+
+{"code": "3409", "cat": "", "subcat": "Car Rental", "desc": "GENERAL RENT-A-CAR",
+
+{"code": "3412", "cat" "subcat": "Car Rental", "desc": "AI RENT-A-CAR"),
+
+{"code": "3428", "cat" "", "subcat": "Car Rental", "desc": "ANSA INTERNATIONAL"),
+
+("code": "3421", "cat"""subcat": "Car Rental", "desc": "ALLSTATE RENT-A-CAR"), {"code": "3423", "cat": "", "subcat": "Car Rental", "desc": "AVCAR RENT-A-CAR"),
+
+{"code": "3425", "cat": "", "subcat": "Car Rental", "desc": "AUTOMATE RENT-A-CAR"},
+
+{"code": "3427", "cat": "", "subcat": "Car Rental", "desc": "AVON RENT-A-CAR"),
+
+("code": "3428", "cat": "", "subcat": "Car Rental", "desc": "CAREY RENT-A-CAR"),
+
+{"code": "3429", "cat": "", "subcat": "Car Rental", "desc": "INSURANCE RENT-A-CAR"),
+
+{"code": "3430", "cat": "", "subcat": "Car Rental", "desc": "MAJOR RENT A CAR"),
+subcat": "Car Rental", "desc": "REPLACEMENT RENT-A-CAR"), {"code": "3431", "cat": "",
+
+"subcat": "Car Rental", "desc": "RESERVE RENT-A-CAR"), {"code": "3432", "cat":"", ",
+
+"subcat": "Car Rental", "desc": "UGLY DUCKLING RENT-A-CAR"), ("code": "3433", "cat": "",
+
+"subcat": "Car Rental", "desc": "USA RENT-A-CAR"), {"code": "3434", "cat": "",
+
+"subcat": "Car Rental", "desc": "VALUE RENT-A-CAR"), {"code": "3435", "cat": "",
+
+"subcat": "Car Rental", "desc": "AUTOHANSA RENT-A-CAR"), {"code": "3436", "cat": "",
+
+"subcat": "Car Rental", "desc": "INTERENT RENT-A-CAR"), {"code": "3438", "cat": "",
+
+"subcat": "Car Rental", "desc": "MILLEVILLE RENT-A-CAR"), {"code": "3439", "cat":
+
+{"code": "3441", "cat": "", "subcat": "Car Rental", "desc": "ADVANTAGE RENT A CAR"),
+
+{"code": "3442", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3443", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3444", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3445", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+("code": "3446", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"},
+
+{"code": "3447", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3448", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3449", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3458", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3451", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+("code": "3452", "cat": "Services", {" "subcat": "Car Rental", "desc": "Rental Cars"),
+
+code": "3453", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{ "code": "3454", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3455", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3456", "cat": "Services", "subcat": "Car Rental", "desc": " Rental Cars"),
+
+{"code": "3457", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3458", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3459", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code" "3460", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3461", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3462", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+"subcat": "Car Rental", "desc": "Rental Cars"),
+
+("code": "3463", "cat": "Services",
+
+{"code": "3464", "cat" "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3465", "cat": "Services", "subcat": "Car Rental", "desc" "Rental Cars"),
+
+{"code": "3466", "cat" "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3467", "cat" "Services", subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3468", "cat" "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3469", "cat" "Services", "subcat": "Car Rental", "desc": "Rental Cars").
+
+{ "code": "3478", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3471", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3472", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+("code": "3473", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code":"3474", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3475", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3476", "cat": "Services", "subcat" "Car Rental", "desc": "Rental Cars"),
+
+{"code": "3477", "cat": "Services", "subcat" "Car Rental", "desc": "Rental Cars"},
+{"code": "3478", "cat": "Services", "subcat": "Car Rental", "desc": "Rental Cars"},
+
+"subcat": "Car Rental", "desc": "Rental Cars"}, {"code": "3479", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"}, {"code": "3480", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3481", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3482", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"}, {"code": "3483", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3484", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3485", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"}, {"code": "3486", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3487", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"}, {"code": "3488", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3489", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), { "code": "3490", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3491", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3492", "cat": "Services", {"
+
+"subcat": "Car Rental", "desc": "Rental Cars"}, code": "3493", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3494", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3495", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3496", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3497", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3498", "cat": "Services",
+
+"subcat": "Car Rental", "desc": "Rental Cars"), {"code": "3499", "cat": "Services",
+
+"subcat": "Lodging", "desc": "Rental Cars"}, ("code": "3500", "cat": "Services",
+
+"subcat": "Lodging", "desc": "HOLIDAY INNS"), {"code": "3501", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "BEST WESTERN HOTELS"), {"code": "3502", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "SHERATON"), {"code": "3503", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "HILTON HOTELS"), {"code": "3504", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "FORTE HOTELS"), {"code": "3505", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "GOLDEN TULIP HOTELS"), {"code": "3506", "cat": "Lodging", {"
+
+"Lodging", "desc": "FRIENDSHIP INNS"), code": "3507", "cat": "Lodging", "subcat"
+
+"Lodging", "desc": "QUALITY INNS"), "Lodging", "desc": "MARRIOTT" {"code": "3508", "cat": "Lodging", "subcat" {"code": "3509", "cat": "Lodging", "subcat"
+
+), "Lodging", "desc": "DAYS INNS"), "code": "3510", "cat": "Lodging", "scat"
+
+{ ("code": "3511", "cat": "Lodging", "subcat": "Lodging", "desc": "ARABELLA HOTELS"),
+
+("code": "3512", "cat": "Lodging", "subcat": "Lodging", "desc": "INTERCONTINENTAL HOTELS"),
+
+{"code": "3513", "cat": "Lodging", "subcat": "Lodging", "desc": "WESTIN"),
+
+{"code": "3514", "cat": "Lodging", "subcat" : "Lodging", "desc": "AMERISUITES"),
+
+("code": "3515", "cat": "Lodging", "subcat": "Lodging", "desc": "RODEWAY INNS"),
+
+("code": "3516", "cat": "Lodging", "subcat": "Lodging", "desc": "LAQUINTA INNS").
+
+{"code": "3517", "cat": "Lodging", "subcat": "Lodging", "desc": "AMERICANA HOTELS"),
+
+{"code": "3518", "cat": "Lodging", "subcat": "Lodging", "desc": "SOL HOTELS"),
+
+{"code": "3519", "cat": "Lodging",
+
+{"code": "3520", "cat": "Lodging", "subcat": "Lodging", "desc": "PULLMAN INTERNATIONAL HOTELS"). "subcat": "Lodging", "desc": "HERIDIEN HOTELS").
+
+{"code": "3521", "cat": "Lodging", "subcat": "Lodging", "desc": "ROYAL LANAINA RESORT").
+
+"code":"3522", "cat": "Lodging", "subcat" "Lodging", "desc": "TOKYO HOTEL").
+{"code": "3523", "cat": "Lodging", "subcat": "Lodging", "desc": "PENINSULA HOTELS"),
+
+{"code": "3524", "cat": "Lodging", "subcat": "Lodging", "desc": "WELCOMGROUP HOTELS"),
+
+{"code": "3525", "cat": "Lodging", "subcat": "Lodging", "desc": "DUNFEY HOTELS"),
+
+{"code": "3526", "cat": "Lodging", "subcat": "Lodging", "desc": "PRINCE HOTELS"},
+
+{"code": "3527", "cat": "Lodging", "subcat": "Lodging", "desc": "DOWNTOWNER PASSPORT"),
+
+{"code": "3528", "cat": "Lodging", "subcat": "Lodging", "desc": "RED LION INNS"),
+
+{"code": "3529", "cat": "Lodging", "subcat": "Lodging", "desc": "CP (CANADIAN PACIFIC) HOTELS"),
+
+{"code": "3530", "cat": "Lodging", "subcat": "Lodging", "desc": "RENAISSANCE HOTELS"),
+
+{"code": "3531", "cat": "Lodging", "subcat": "Lodging", "desc": "KAUAI COCONUT BEACH RESORT"),
+
+{"code": "3532", "cat": "Lodging", "subcat": "Lodging", "desc": "ROYAL KONA RESORT"),
+
+{"code": "3533", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTEL IBIS"),
+
+{"code": "3534", "cat": "Lodging", "subcat": "Lodging", "desc": "SOUTHERN PACIFIC HOTELS"),
+
+{"code": "3535", "cat": "Lodging", "subcat": "Lodging", "desc": "HILTON INTERNATIONAL"},
+
+{"code": "3536", "cat": "Lodging", "subcat": "Lodging", "desc": "AMFAC HOTELS"),
+
+{"code": "3537", "cat": "Lodging", "subcat": "Lodging", "desc": "ANA HOTELS"),
+
+{"code": "3538", "cat": "Lodging", "subcat": "Lodging", "desc": "CONCORDE HOTELS"),
+
+{"code": "3539", "cat": "Lodging", "subcat": "Lodging", "desc": "SUMMERFIELD SUITES HOTEL"), {"code": "3548", "cat": "Lodging", "subcat": "Lodging", "desc": "IBEROTEL GITEKS"),
+
+{"code": "3541", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTEL OKURA"),
+
+{"code": "3542", "cat": "Lodging", "subcat": "Lodging", "desc": "ROYAL HOTELS"),
+
+{"code": "3543", "cat": "Lodging", "subcat": "Lodging", "desc": " FOUR SEASONS HOTELS"),
+
+{"code": "3544", "cat": "Lodging", "subcat": "Lodging", "desc": "CIGA HOTELS"),
+
+{"code": "3545", "cat": "Lodging", "subcat": "Lodging", "desc": "SHANGRI-LA INTERNATIONAL"),
+
+{"code": "3546", "cat": "Lodging", "subcat": "Lodging", "desc": "SIERRA SUITES HOTELS"),
+
+{"code": "3547", "cat": "Lodging", "subcat": "Lodging", "desc": "BREAKERS RESORT, THE"),
+
+{"code": "3548", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTELS MELIA"),
+
+{"code": "3549", "cat": "Lodging", "subcat": "Lodging", "desc": "AUBERGE DES GOVERNEURES"},
+
+{"code": "3550", "cat": "Lodging", "subcat": "Lodging", "desc": "REGAL & INNS"),
+
+("code" : "3551", "cat": "Lodging", "subcat": "Lodging", "desc": "PIRAGE HOTEL AND CASINO"),
+
+{"code": "3552", "cat": "Lodging", "subcat": "Lodging", "desc": "COAST HOTEL"),
+
+{"code": "3553", "cat": "Lodging", "subcat": "Lodging", "desc": "PARKS. INNS INTERNATIONAL").
+
+{"code": "3554", "cat": "Lodging", "subcat": "Lodging", "desc": "PINEHURST RESORT"),
+
+{"code": "3555", "cat": "Lodging", "subcat": "Lodging", "desc": "TREASURE ISLAND HOTEL AND CASINO", {"code": "3556", "cat": "Lodging", "subcat": "Lodging", "desc": "BARTON CREEK RESORT").
+
+"3557", "cat": "Lodging", "subcat": "Lodging", "desc": "HANHATTAN EAST SUITE HOTELS"), {"code"
+
+"subcat": "Lodging", "desc": "JOLLY HOTELS"), {"code" "3558", "cat": "Lodging",
+
+{"code": "3559", "cat": "Lodging", "subcat": "Lodging", "desc": "CANDLEWOOD SUITES"),
+
+("code": "3560", "cat": "Lodging", "subcat": "Lodging", "desc": "ALADDIN RESORT AND CASINO"), ("code": "3561", "cat": "Lodging", "subcat" "Lodging", "desc": "GOLDEN NUGGET"),
+
+{"code": "3562", "cat": "Lodging", "subcat": "Lodging", "desc": "COMFORT INNS"),
+
+{"code": "3563", "cat": "Lodging", "subcat": "Lodging", "desc": "JOURNEY'S END MOTELS"),
+
+{"code": "3564", "cat": "Lodging", "subcat": "Lodging", "desc": "SAN'S TOWN HOTEL AND CASINO").
+
+("code": "3565", "cat": "Lodging", "subcat": "Lodging", "desc": "RELAX INNS"), {"code": "3566", "cat": "Lodging", "subcat": "Lodging", "desc": "GARDEN PALACE HOTEL"),
+
+{"code": "3567", "cat": "Lodging", "subcat": "Lodging", "desc": "SOMO GRAND HOTEL").
+{"code": "3568", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3569", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3578", "cat": "Lodging", "subcat": "Lodging", "desc": "FORUM HOTELS"),
+
+{"code": "3571", "cat": "Lodging", "subcat": "Lodging", "desc": "GRAND WAILEA RESORT"),
+
+{"code": "3572", "cat": "Lodging", "subcat": "Lodging", "desc": "MIYAKO HOTEL"),
+
+{"code": "3573", "cat": "Lodging", "subcat": "Lodging", "desc": "SANDMAN HOTELS"),
+
+{"code": "3574", "cat": "Lodging", "subcat": "Lodging", "desc": "VENTURE INN"),
+
+{"code": "3575", "cat": "Lodging", "subcat": "Lodging", "desc": "VAGABOND HOTELS"),
+
+{"code": "3576", "cat": "Lodging", "subcat": "Lodging", "desc": "LA QUINTA RESORT"),
+
+("code": "3577", "cat": "Lodging", "subcat": "Lodging", "desc": "MANDARIN ORIENTAL HOTELS"),
+
+{"code": "3578", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3579", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTEL MERCURE"),
+
+{"code": "3580", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3581", "cat": "Lodging", "subcat": "Lodging", "desc": "DELTA HOTELS"),
+
+{"code": "3582", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3583", "cat": "Lodging", "subcat": "Lodging", "desc": "SAS HOTELS"),
+
+{"code": "3584", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{ "code": "3585", "cat": "Lodging", "subcat": "Lodging", "desc": "HUNGAR HOTELS"),
+
+{"code": "3586", "cat": "Lodging", "subcat": "Lodging", "desc": "SOKOS HOTEL"),
+
+("code": "3587", "cat": "Lodging", "subcat": "Lodging", "desc": "DORAL HOTELS"),
+
+{"code": "3588", "cat": "Lodging", "subcat": "Lodging", "desc": "
+
+{"code": "3589", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3590", "cat": "Lodging", "subcat": "Lodging", "desc": "
+
+{"code": "3591", "cat": "Lodging", "subcat": "Lodging", "desc": "SONESTA HOTELS"),
+
+{"code": "3592", "cat": "Lodging", "subcat": "Lodging", "desc": "OMNI HOTELS"),
+
+{"code": "3593", "cat": "Lodging", "subcat": "Lodging", "desc": "CUNARD HOTELS"),
+
+{"code": "3594", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3595", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3596", "cat": "Lodging", "subcat": "Lodging", "desc
+
+{"code": "3597", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3598", "cat": "Lodging", {"code": "3599", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3600", "cat": "Lodging", "subcat": "Lodging", "desc": "subcat": "Lodging", "desc"
+
+{"code": "3601", "cat": "Lodging", "subcat": "Lodging", "desc"
+
+{"code": "3602", "cat": "Lodging", "subcat" "Lodging", "desc"
+
+"LADBROKE HOTELS"),
+
+"TRIBECA GRAND HOTEL"),
+
+"FRANKENMUTH BAVARIAN"),
+
+"HOTEL DEL CORONADO"),
+
+"CALIFORNIA HOTEL AND CASINO"),
+
+"PRINCESS HOTELS INTERNATIONAL"),
+
+HELMSLEY HOTELS"),
+
+"DORAL GOLF RESORT"),
+
+FAIRMONT HOTELS"),
+
+"ARIZONA BILTMORE"),
+
+"HOSPITALITY INNS",
+
+": "WYNN LAS VEGAS"),
+
+"RIVERSIDE RESORT AND CASINO),
+
+"REGENT INTERNATIONAL HOTEL"),
+
+"PANNONIA HOTELS"),
+
+"SADDLEBROOK RESORT - TAMPA
+
+"Lodging", "desc" {"code": "3603", "cat": "Lodging", "subcat"
+
+TRADEWINDS RESORTS"),
+
+"HUDSON HOTEL"),
+
+"NOAH'S HOTEL").
+
+{"code": "3684", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+"HILTON GARDEN INN"),
+
+"subcat": "Lodging", "desc": {"code": "3685", "cat": "Lodging",
+
+"JURYS DOYLE HOTEL GROUP),
+
+"subcat": "Lodging", "desc": "JEFFERSON HOTEL"), {"code": "3606", "cat": "Lodging", {"code": "3687", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "subcat": "Lodging", "desc": {"code": "3606", "cat": "Lodging",
+{"code": "3607", "cat": "Lodging", "subcat": "Lodging", "desc": "FONTAINEBLEAU RESORT"),
+
+{"code": "3688", "cat": "Lodging", "subcat": "Lodging", "desc": "GAYLORD OPRYLAND HOTEL"),
+
+{"code": "3609", "cat": "Lodging", "subcat": "Lodging", "desc": "GAYLORD PALMS HOTEL"),
+
+{"code": "3618", "cat": "Lodging", "subcat": "Lodging", "desc": "GAYLORD TEXAN HOTEL"),
+
+{"code": "3611", "cat": "Lodging", "subcat": "Lodging", "desc": "C MON INN"),
+
+{"code": "3612", "cat": "Lodging", "subcat": "Lodging", "desc": "MOVENPICK HOTELS"),
+
+{"code": "3613", "cat": "Lodging", "subcat": "Lodging", "desc": "MICROTEL INN AND SUITES"),
+
+{"code": "3614", "cat": "Lodging", "subcat": "Lodging", "desc": "AMERICINN"),
+
+{"code": "3615", "cat": "Lodging", "subcat": "Lodging", "desc": "TRAVELODGE"),
+
+{"code": "3616", "cat": "Lodging", "subcat": "Lodging", "desc": "HERMITAGE HOTEL"),
+
+{"code": "3617", "cat": "Lodging",
+
+{"code": "3618", "cat": "Lodging", "subcat": "Lodging", "desc": "GREAT WOLF"),
+
+{"code": "3619", "cat": "Lodging", { "subcat": "Lodging", "desc": "ALOFT HOTELS"),
+
+"code": "3628", "cat": "Lodging", "subcat": "Lodging", "desc": "BINION'S HORSESHOE CLUB"),
+
+{"code": "3621", "cat": "Lodging",
+
+{"code": "3622", "cat": "Lodging", "subcat": "Lodging", "desc": "EXTENDED STAY"), "subcat": "Lodging", "desc": "MERLIN HOTEL GROUP"),
+
+{ ("code": "3624", "cat": "Lodging", "subcat": "Lodging", "desc": "LADY LUCK HOTEL AND CASINO"),
+
+"code": "3623", "cat": "Lodging", "subcat": "Lodging", "desc": "DORINT HOTELS"},
+
+{"code": "3625", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTEL UNIVERSALE"),
+
+{"code": "3626", "cat": "Lodging", "subcat": "Lodging", "desc": "STUDIO PLUS"),
+
+{"code": "3627", "cat": "Lodging", "subcat": "Lodging", "desc" "EXTENDED STAY AMERICA"),
+
+{"code": "3628", "cat": "Lodging", "subcat": "Lodging", "desc": "EXCALIBUR HOTEL AND CASINO"),
+
+{"code": "3629", "cat": "Lodging", "subcat": "Lodging", "desc": "DAN HOTELS"},
+
+{"code": "3630", "cat": "Lodging", "subcat": "Lodging", "desc": "TOKYUHOTELS"),
+
+("code": "3631", "cat": "Lodging", "subcat": "Lodging", "desc": "SLEEP INN"),
+
+{"code": "3632", "cat": "Lodging", "subcat": "Lodging", "desc": "PHOENICIAN, THE
+
+("code": "3633", "cat": "Lodging", "), "subcat": "Lodging", "desc": "RANK HOTELS"),
+
+{"code": "3634", "cat": "Lodging", { "subcat": "Lodging", "desc": "SHISSOTEL"),
+
+"code": "3635", "cat": "Lodging", "subcat": " Lodging", "desc": "RESO HOTEL"),
+
+{"code": "3636", "cat": "Lodging", "subcat": "Lodging", "desc": "SAROVA HOTELS"),
+
+["code" "3637", "cat": "Lodging", "subcat": "Lodging", "desc": "RAMADA INNS"),
+
+{"code" "3638", "cat": "Lodging", "subcat": "Lodging", "desc": "HOWARD JOHNSON"),
+
+{"code": "3639", "cat": "Lodging", "subcat": "Lodging", "desc": "HOUNT CHARLOTTE THISTLE"),
+
+{"code": "3648", "cat": "Lodging", "subcat": "Lodging", "desc": "HYATT HOTELS"),
+
+{"code": "3641", "cat": "Lodging", "subcat" "Lodging", "desc": "SOFITEL HOTELS"),
+
+{" ("code": "3643", "cat": "Lodging", "subcat": "Lodging", "desc": "STEIGENBERGER HOTELS"),
+
+code": "3642", "cat": "Lodging", "subcat" "Lodging", "desc": "NOVOTEL HOTELS"),
+
+("code": "3644", "cat": "Lodging", "subcat": "Lodging", "desc": "ECONOLOOGES"),
+
+{"code": "3645", "cat": "Lodging", "subcat": "Lodging", "desc": "QUEENS MOAT HOUSES"),
+
+{"code": "3646", "cat": "Lodging", "subcat": "Lodging", "desc": "SWALLOW HOTELS"),
+
+{"code": "3647", "cat" "Lodging", "subcat" "Lodging", "desc": "HUSA HOTELS"),
+{"code": "3648", "cat": "Lodging", "subcat": "Lodging", "desc": "DE VERA HOTELS"),
+
+{"code": "3649", "cat": "Lodging", "subcat": "Lodging", "desc": "RADISSON HOTELS"),
+
+{"code": "3658", "cat": "Lodging", "subcat": "Lodging", "desc": "RED ROOF INNS"),
+
+{"code": "3651", "cat": "Lodging", "subcat": "Lodging", "desc": "IMPERIAL LONDON HOTELS"),
+
+{"code": "3652", "cat": "Lodging", "subcat": "Lodging", "desc": "EMBASSY HOTELS"),
+
+{"code": "3653", "cat": "Lodging", "subcat": "Lodging", "desc": "PENTA HOTELS"),
+
+{"code": "3654", "cat": "Lodging", "subcat": "Lodging", "desc": "LOEWS HOTELS"),
+
+{"code": "3655", "cat": "Lodging", "subcat" "Lodging", "desc": "SCANDIC HOTELS"),
+
+{ {"code": "3657", "cat": "Lodging", "subcat": "Lodging", "desc": "OBEROI HOTELS"},
+
+"code": "3656", "cat": "Lodging", "subcat": "Lodging", "desc": "SARA HOTELS"),
+
+{
+
+"code": "3658", "cat": "Lodging", "subcat": "Lodging", "desc": "NEW OTANI HOTELS"),
+
+{"code": "3659", "cat": "Lodging", "subcat": "Lodging", "desc": "TAJ HOTELS INTERNATIONAL"),
+
+{"code": "3660", "cat": "Lodging", "subcat": "Lodging", "desc": "KNIGHTS INN"),
+
+{"code": "3661", "cat": "Lodging", "subcat": "Lodging", "desc": "METROPOLE HOTELS"),
+
+{"code": "3662", "cat": "Lodging", "subcat": "Lodging", "desc": "CIRCUS CIRCUS HOTEL AND CASINO"),
+
+{"code": "3663", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTELES EL PRESIDENTE"),
+
+("code": "3664", "cat": "Lodging", "subcat": "Lodging", "desc": "FLAG INNS"),
+
+{"code": "3665", "cat": "Lodging", "subcat": "Lodging", "desc": "HAMPTON INN HOTELS"),
+
+{"code": "3666", "cat": "Lodging", "subcat": "Lodging", "desc": "STAKIS HOTELS"),
+
+{"code": "3667", "cat": "Lodging", "subcat": "Lodging", "desc": "LUXOR HOTEL AND CASINO"),
+
+{"code": "3668", "cat": "Lodging", "subcat": "Lodging", "desc": "MARITIM HOTELS"},
+
+{"code": "3669", "cat": "Lodging", "subcat": "Lodging", "desc": "EL DORADO HOTEL AND CASINO"),
+
+{"code": "3678", "cat": "Lodging", "subcat": "Lodging", "desc": "ARCADE HOTELS"),
+
+("code": "3671", " cat": "Lodging", "subcat": "Lodging", "desc": "ARCTIA HOTELS"),
+
+{"code": "3672", "cat": "Lodging", "subcat": "Lodging", "desc": "CAMPANILE HOTELS"),
+
+{"code": "3673", "cat" "Lodging", "subcat": "Lodging", "desc": "IBUSZ HOTELS"),
+
+{"code": "3674", cat" "Lodging", "subcat": "Lodging", "desc": "RANTASIPI HOTELS"),
+
+{"code": "3675", "Lodging", "subcat": "Lodging", "desc" : "INTERHOTEL CEDOKT),
+
+{"code": "3676" "Lodging", "subcat": "Lodging", "desc": "MONTE CARLO HOTEL AND CASINO"),
+
+{"code": "3677", "cat" "Lodging", "subcat": "Lodging", "desc": "CLIMAT DE FRANCE HOTELS"),
+
+{" {"code": "3679", "cat" "Lodging", "subcat": "Lodging", "desc": "SILVER LEGACY
+
+code": "3678" et" "Lodging", "subcat": "Lodging", "desc": "CUFIULUS HOTELS"),
+
+{"code": "3688", "cat" HOTEL AND CASINO"), "Lodging", "subcat": "Lodging", "desc": "HOTEIS OTHAN"),
+
+{"code": "3681", "cat": "Lodging", "subcat": "Lodging", "desc": "ADAMS MARK HOTELS"),
+
+"subcat": "Lodging", "desc": "SAHARA HOTEL AND CASINO"), "code": "3682", "cat": "Lodging",
+
+{"code": "3683", "cat": "Lodging", "subcat" "Lodging", "desc": "BRADBURY SUITES"), ("code": "3684", "cat": "Lodging", "subcat": "Lodging", "desc": "BUDGET HOSTS INNS"),
+
+{"code": "3685", "cat": "Lodging", "subcat": "Lodging", "desc": "BUDGETEL INNS",
+
+("code": "3686", "cat": "Lodging", "subcat": "Lodging", "desc": "SUSSE CHALET"),
+
+("code": "3687", "cat": "Lodging", "subcat" "Lodging", "desc": "CLARION HOTELS"),
+
+{"code": "3688", "cat": "Lodging", "subcat": "Lodging", "desc" : "COMPRI HOTELS"), {"code": "3689", "cat": "Lodging", "subcat": "Lodging", "desc": "CONSORT HOTELS"),
+
+{"code": "3690", "cat": "Lodging", "subcat": "Longing", "desc": "COURTYARD BY MARRIOTT"),
+
+{"code": "3651", "cat": "Lodging", "subcat": "Lodging", "desc": "DILLON INN"),
+
+{"code": "3692", "cat" "Lodging", "subcat": "Lodging", "desc": "DOUBLETREE HOTELS"),
+{"code": "3693", "cat": "Lodging", "subcat": "Lodging", "desc": "DRURY INN"),
+
+{"
+
+code": "3694", "cat": "Lodging", "subcat": "Lodging", "desc": "ECONOMY INNS OF AMERICA"), ("code": "3695", "cat": "Lodging", "
+
+{"code": "3696", "cat": "Lodging", subcat": "Lodging", "desc": "EMBASSY SUITES"), "subcat": "Lodging", "desc": "EXCEL INN"),
+
+{"code": "3697", "cat": "Lodging", "subcat": "Lodging", "desc": "FAIRFIELD HOTELS"),
+
+("code": "3698", "cat": "Lodging",
+
+{"code": "3699", "cat": "Lodging", "subcat": "Lodging", "desc": "MIDWAY MOTOR LODGE"),
+
+{"code": "3708", "cat": "Lodging", "subcat": "Lodging", "desc": "HOTEL 6"),
+
+{"code": "3701", "cat": "Lodging", "subcat": "Lodging", "desc": "LA MANSION DEL RICO"),
+
+{"code": "3702", "cat": "Lodging", "subcat": "Lodging", "desc": "THE REGISTRY HOTELS"),
+
+{"code": "3703", "cat": "Lodging", "subcat": "Lodging", "desc": "RESIDENCE INN"),
+
+{"code": "3784", "cat": "Lodging",
+
+{"code": "3785", "cat": "Lodging", "subcat": "Lodging", "desc": "ROYCE HOTELS"),
+
+{"code": "3706", "cat": "Lodging", "subcat": "Lodging", "desc": "SANDMAN INN"), "subcat": "Lodging",
+
+{"code": "3787", "cat": "Lodging", "desc": "SHILO INN"), "subcat": "Lodging", "desc": "SHONEY'S INN"),
+
+{"code": "3788", "cat": "Lodging", "subcat": "Lodging", "desc": "VIRGIN RIVER
+
+{"code": "3709", "cat": "Lodging", HOTEL AND CASINO"), "subcat": "Lodging", "desc": "SUPER 8 MOTELS"),
+
+{"code": "3718", "cat": "Lodging", "subcat": "Lodging", "desc": "THE RITZ
+
+{"code": "3711", "cat": "Lodging", {"code": "3712", "cat": "Lodging", CARLTON"), "subcat": "Lodging", "desc": "FLAG INNS (AUSTRALIA)"), "subcat": "Lodging", "desc":
+
+{"code": "3713", "cat": "Lodging", "subcat": "Lodging", "desc": "QUALITY PACIFIC HOTEL"),
+
+{"code": "3714", "cat": "Lodging", "subcat": "Lodging", "desc": "FOUR SEASONS (AUSTRALIA) HOTELS").
+
+{"code": "3715", "cat": "Lodging", "subcat": "Lodging", "desc": "FAIRFIELD INN"),
+
+("code": "3716", "cat": "Lodging", "subcat": "Lodging", "desc": "CARLTON HOTELS"),
+
+{"code": "3717", "cat": "Lodging", {"code": "3718", "cat": " "subcat": "Lodging", "desc": "CITY LODGE HOTELS"),
+
+Lodging", ("code": "3719", "cat": "Lodging", "subcat": "Lodging", "desc": "KAROS HOTELS"), "subcat": "Lodging", "desc": " PROTEA HOTELS"),
+
+"subcat": "Lodging", "desc": "HARLEY HOTELS"),
+
+"BUFFALO BILL'S HOTEL AND CASINO"),
+
+{"code": "3720", "cat": "Lodging", "subcat" : "Lodging", "desc": "SOUTHERN SUN HOTELS"),
+
+{"code" "3721", "cat": "Lodging", "subcat": "Lodging", "desc": "CONRAD HOTELS"),
+
+("code": "3722", "cat": "Lodging", "subcat": "Lodging", "desc": "WYNDHAM"),
+
+("code" "subcat": "Lodging", "desc": "RICA HOTELS", {" "3723", "cat": "Lodging",
+
+code" "3724", " cat":"Lodging", "subcat" "Lodging", "desc": "INTER NOR HOTELS"),
+
+{"code" "3725", "cat": "Lodging", " subcat": "Lodging", "desc": "SEA PINES RESORT"),
+
+("code": "3726", "cat": "Lodging", "subcat": "Lodging", "desc": "RIO SUITES"),
+
+("code": "3727", "cat": "Lodging", "subcat": "Lodging", "desc": "BROADMOOR HOTEL"),
+
+{"code": "3728", "cat": "Lodging", "subcat": "Lodging", "desc": "BALLYS HOTEL AND CASINO),
+
+{"code": "3729", "cat": "Lodging", "subcat": "Lodging", "desc": " 30HN ASCUAGAS NUGGET"),
+
+{"code": "3730", "cat": "Lodging", "subcat": "Lodging", "desc": "NGH GRAND HOTEL"),
+
+("code": "3731", "cat": "Lodging", "subcat": "Lodging", "desc": "HARRAHS HOTELS AND CASINOS").
+
+("code": "3732", "cat": "Lodging", "subcat": "Lodging", "desc": "OPRYLAND HOTEL").
+
+("code": "3733", "cat": "Lodging", "subcat": "Lodging", "desc": "BOCA RATON RESORT").
+
+{ "code": "3734", "cat": "Lodging", "subcat" "Lodging", "desc": "HARVEY BRISTOL HOTELS"),
+
+{ "code": "3735", "cat": "Lodging", "subcat": "Lodging", "desc": "MASTERS ECONOMY INNS"),
+
+{"code": "3736", "cat": "Lodging", "subcat" "Lodging", "desc":
+
+"COLORADO BELLE EDGEWATER RESORT"),
+
+"code": "3737", "cat": "Lodging", "subcat": "Lodging", "desc": "RIVIERA HOTEL AND CASINO").
+{"code": "3738", "cat": "Lodging", "subcat": "Lodging", "desc": "TROPICANA RESORT AND CASINO"),
+
+{"code": "3739", "cat": "Lodging", "subcat": "Lodging", "desc": "HOODSIDE HOTELS AND RESORTS"),
+
+{"code": "3748", "cat": "Lodging", "subcat": "Lodging", "desc": "TOWNEPLACE SUITES"},
+
+("code": "3741", "cat": "Lodging", "subcat": "Lodging", "desc": "MILLENNIUM HOTELS"},
+
+{"code": "3742", "cat": "Lodging", "subcat": "Lodging", "desc": "CLUB MED"),
+
+("code": "3743", "cat": "Lodging", "subcat": "Lodging", "desc": " BILTMORE HOTEL AND SUITES"),
+
+{"code": "3744", "cat": "Lodging", "subcat": "Lodging", "desc": "CAREFREE RESORTS"),
+
+{"code": "3745", "cat": "Lodging", "subcat": "Lodging", "desc": "ST. REGIS HOTEL"),
+
+{"code": "3746", "cat": "Lodging", "subcat": "Lodging", "desc": "ELIOT HOTELS"),
+
+{ "code": "3747", "cat": "Lodging", "subcat": "Lodging", "desc": "CLUB CORP/CLUB RESORTS"),
+
+("code": "3748", "cat": "Lodging", "subcat": "Lodging", "desc": "WELLESLEY INNS"),
+
+{"code": "3749", "cat": "Lodging", "subcat": "Lodging", "desc": "THE BEVERLY HILLS HOTEL"),
+
+{"code": "3758", "cat": "Lodging", "subcat": "Lodging", "desc": "CROWNE PLAZA HOTELS"),
+
+("code": "3751", "cat": "Lodging", "subcat": "Lodging", "desc": "HOMEWOOD SUITES"),
+
+{"code": "3752", "cat": "Lodging", "subcat": "Lodging", "desc": "PEABODY HOTELS"),
+
+{"code": "3753", "cat": "Lodging", "subcat": "Lodging", "desc": "GREENBRIAR RESORTS"),
+
+{"code": "3754", "cat": "Lodging", "subcat": "Lodging", "desc": "ARELIA ISLAND PLANTATION"), {
+
+"code": "3755", "cat": "Lodging", "subcat": "Lodging", "desc": "THE HOMESTEAD"),
+
+{"code" "3756", "cat": "Lodging", "subcat": "Lodging", "desc": "TOKYOINN"),
+
+{"code": "3757", "cat": "Lodging", "subcat": "Lodging", "desc": "CANYON RANCH"), {"code": "3758", "cat"
+
+: " Lodging", "subcat": "Lodging", "desc": "KAHALA MANDARIN ORIENTAL HOTEL"),
+
+{"code": "3759", "cat": "Lodging", "subcat": "Lodging", "desc": "THE ORCHID AT MAUNA LANI"),
+
+("code": "3760", "cat": "Lodging", "subcat": "Lodging", "desc": "HALEKULANI HOTEL/WAIKIKI PARC"),
+
+{"code": "3761", "cat": "Lodging", "subcat": "Lodging", "desc": "PRIMADONNA HOTEL AND CASINO"),
+
+("code": "3762", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+"WHISKEY PETE'S HOTEL AND CASINO"),
+
+{"code": "3763", "cat": "Lodging", "subcat": "Lodging", "desc": "CHATEAU ELAN WINERY AND RESORT"),
+
+{"code": "3764", "cat": "Lodging", "subcat": "Lodging", "desc": "BEAU RIVAGE HOTEL AND CASINO"),
+
+{"code": "3765", "cat": "Lodging", "subcat": "Lodging", "desc": "BELLAGIO HOTEL AND CASINO"), {"code
+
+": "3766", "cat": "Lodging", "subcat": "Lodging", " desc": "FREMONT HOTEL AND CASINO"),
+
+{"code": "3767", "cat": "Lodging", " subcat": "Lodging", "desc": "MAIN STREET HOTEL AND CASINO"),
+
+{"code": "3768", "cat": "Lodging", "subcat": "Lodging", "desc": "SILVER STAR HOTEL AND CASINO"),
+
+{ "code": "3769", "cat": "Lodging", "subcat": "Lodging", "desc": "STRATOSPHERE HOTEL AND CASINO"),
+
+{"code": "3778", "cat": "Lodging", "subcat": "Lodging", "desc": "SPRINGHILL SUITES"),
+
+{"code": "3771", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+"CAESARS HOTEL AND CASINO"),
+
+{"code": "3772", "cat": "Lodging", "subcat": "Lodging", "desc": "NEMACOLIN WOODLANDS"), {"
+
+code" "3773", "cat":"Loiging", "subcat": "Lodging", "desc":
+
+"code" "3774", "cat": "Lodging", "subcat" "Lodging", "desc":
+
+"VENETIAN RESORT HOTEL AND CASINO, THE"),
+
+"NEW YORK, NEW YORK HOTEL AND CASINO"),
+
+{"code": "3775", "cat": "Lodging", "subcat": "Lodging", "desc": "SANDS RESORT"),
+
+{"code": "3776", "cat": "Lodging", "subcat": "Lodging", "desc":
+
+{"code": "3777", "cat": "Lodging", {"code": "3778", "cat": "Lodging", "subcat": "Lodging", "desc": "MANDALAY BAY RESORT"), "subcat
+
+"NEVELE GRANDE RESORT AND COUNTRY CLUB"),
+
+": "Lodging", "desc": "FOUR POINTS HOTELS"), {"code": "3779", "cat": "Lodging", "subcat": "Lodging", "desc": "W HOTELS"),
+
+{"code": "3780", "cat": "Lodging", "subcat" "Lodging", "desc": "DISNEY RESORTS"),
+
+{"code": "3781", "cat": "Lodging", "subcat": "Lodging", "desc": "THE PATRICIA GRAND RESORT HOTELS").
+
+("code":"3782", "cat": "Lodging", "subcat" "Lodging", "desc": "ROSEN HOTELS AND RESORTS"),
+{"code": "3783", "cat": "Lodging", "subcat" "Lodging", "desc": "TOWN AND COUNTRY RESORT AND CONVENTION CENTER")
+
+{"code": "3784", "cat": "Lodging", "subcat": "Lodging", "desc": "FIRST HOSPITALITY HOTELS"), {"code": "3785", "cat": "Lodging", "subcat": "Lodging", "desc": "OUTRIGGER HOTELS AND RESORTS"),
+
+{"code": "3786", "cat": "Lodging", "subcat": "Lodging", "desc": "CHANA HOTELS OF HAWAII"),
+
+{
+
+"code": "3787", "cat": "Lodging", "subcat": "Lodging", "desc": "CARIBE ROYALE RESORT SUITES AND VILLAS"),
+
+("code": "3788", "cat": "Lodging", "subcat": "Lodging", "desc": "ALA MOANA HOTEL"),
+
+("code": "3789", "cat": "Lodging", "subcat": "Lodging", "desc": "SMUGGLERS NOTCH RESORT"),
+
+{"code": "3790", "cat": "Lodging", "subcat": "Lodging", "desc": "RAFFLES HOTELS"),
+
+"subcat": "Lodging", "desc": "STAYBRIDGE SUITES"), {"code": "3791", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "CLARIDGE CASINO HOTEL"), {"code": "3792", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "THE FLAMINGO HOTELS"), {"code": "3793", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "GRAND CASINO HOTELS"), code": "3794", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "PARIS LAS VEGAS HOTEL"), {" ("code": "3795", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "PEPPERMILL HOTEL CASINO"), code": "3796", "cat": "Lodging",
+
+"subcat": "Lodging" "desc": "ATLANTIC CITY HILTON"), {" {"code": "3797", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "EMBASSY VACATION RESORT"), ("code": "3798", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "HALE KOA HOTEL"), {"code": "3799", "cat": "Lodging",
+
+"subcat": "Lodging", "desc": "HOMESTEAD SUITES"), {"code": "3800", "cat": "Lodging",
+
+("code": "3801", "cat": "Lodging", "subcat": "Lodging", "desc": "WILDERNESS HOTEL AND GOLF RESORT"). ("code": "3802", "cat": "Lodging", "subcat" "Lodging", "desc": "THE PALACE HOTEL"),
+
+("code": "3803", "cat" "Lodging", "subcat": "Lodging", "desc" "THE HIGHAM GOLF RESORT AND SPA"),
+
+("code": "3804", "cat": "Lodging", "subcat": "Lodging", "desc": "THE DIPLOMAT COUNTRY CLUB AND SPA),
+
+{"code": "3805", "cat": "Lodging", "subcat": "Lodging", "desc": "THE ATLANTIC"),
+
+{ {"code": "3887", "cat": "Lodging", "subcat": "Lodging", "desc": "ELEMENT),
+
+"code": "3806", "cat": "Looging", "subcat": "Lodging", "desc": "PRINCEVILLE RESORT"),
+
+["code" "3808", "cat": "Lodging", "subcat": "Lodging", "desc": "LXR"),
+
+("code" "3809", "cat": "Lodging", "subcat" : "Lodging", "desc": "SETTLE INN"),
+
+"code": "3810", "cat" "Lodging", "subcat": "Lodging", "desc": "LA COSTA RESORT),
+
+("code": "3811", "cat": "Lodging", "subcat": "Lodging", "desc": "PREMIER TRAVEL INV),
+
+("code": "3812", "cat": "Lodging", "subcat": "Lodging", "desc" "HYATT PLACE").
+
+("code": "3813", "cat": "Lodging", "subcat" "Lodging", "desc": "HOTEL INDIGO"),
+
+("code": "3814", "cat": "Lodging", "subcat": "Lodging", "desc": "THE ROOSEVELT HOTEL NY).
+
+{"code": "3832", "cat": "Services", "subcat": "Lodging", "desc": "Curio Hotels"),
+
+("code": "3833", "cat": "Services", "subcat": "Lodging", "desc": "Canopy Hotels"), {"code": "3834", "cat" "Services", "subcat" "Lodging", "desc" : "Baymont Inn & Suites"),
+
+{"code": "3835", "cat": "Services", "subcat" "Lodging", "desc": "Dolce),
+
+("code": "3836", "cat": "Services", "subcat": "Lodging", "desc": "Hawthorne Suites by Wyndham"),
+
+("code": "3837", "cat": "Services", "subcat": "Lodging", "desc" "HOSHINO),
+
+("code": "3838", "cat": "Services", "subcat": "Lodging", "desc": "KIMPTON HOTELS"),
+
+{"code": "4011", "cat": "Services", "subcat" "Transportation Services", "desc": "RAILROADS FREIGHT"),
+
+(
+
+"code": "4111", "cat": "Services", "subcat" "Transportation Services", "desc"
+
+: "TRANSPAIN SUBRON AND LOCAL CONTR PSMER, INCL
+
+{"code": {"code": "4119", "cat" "Services", "subcat" "Transportation Services", "desc": "ANBULANCE
+
+"4112", "cat" "Travel", "subcat" "Transportation Services", "desc": "PASSENGER RAILWAYS"). SERVICES"),
+
+("code": "4121", "cat" "Services", "subcat" "Transportation Services", "desc": "LIMOUSINES AMD TAKICARS)
+
+{"code": "4131", "cat" "Services", "subcat" "Transportation Services", "desc": "BUS LINES"),
+ ("code": "4214", "cat": "Services", "subcat" "Transportation Services", "desc": "FREIGHT CARRIER, TRUCKING-LCL/LNG DIST, PVS/STORAGE"),
+
+("code": "4213", "cat": "Services", "subcat": "Transportation Services", "desc": "COURIER SVC-AIR AND GROUND, FREIGHT FORWARDERS"),
+
+{"code": "4225", "cat": "Services", "subcat": "Transportation Services", "desc": "PUBLIC WAREHOUSING-FARM, REFRIG 60005, HHG STORAGE"),
+
+{"code": "4411", "cat": "Services", "subcat": ("code "Transportation Services", "desc": "CRUISE LINES"),
+
+": "4457", "cat" "Services", "subcat" ("code": "4468", "cat": "Services", "subcat" "Transportation Services", "desc": "BOAT LEASES AND BOAT RENTALS"),
+
+"Transportation Services", "desc": "MARINAS, MARINE SERVICE/SUPPLIES", {"code": "4511", "cat" "Travel", "subcat" "Transportation Services", "desc": "AIR CARRIERS, AIRLINES-MOT ELSEWHERE CLASSIFIED"),
+
+(" {"code": "4722", "cat": "Services", "subcat" "Transportation Services", "desc": "TRAVEL AGENCIES AND TOUR OPERATORS"),
+
+code": "4582", "cat": "Services", "subcat": "Transportation Services", "desc": "AIRPORTS, AIRPORT TERMINALS, FLYING FIELDS"),
+
+{"code": "4784", "cat" "Services", "subcat" {"code": "4789", "cat" "Services", "subcat" "Transportation Services", "desc": "BRIDGE AND ROAD FEES, TOLLS"), "Transportation Services", "desc": "TRANSPORTATION SERVICES NOT ELSEWHERE CLASSIFIED"),
+
+("code": "4812", "cat": "Series", "subcat" "Utility Services", "desc": "TELECOMPUNICATION EQUIPMENT INCL TELEPHONE SALES"),
+
+("code": "4813", "cat": "Services", "subcat": "Utility Services", "desc": "KEYENTRY TELE PERCNT LCL/LNG DIST. NON FACE TOFACE"),
+
+("code" "4814", "cat":"Services", "subcat" "Utility Services", "desc": "TELECOM INCL PREPAID/RECURRING PHONE SVCS)
+
+"Utility Services", "desc": "TELEGRAPH SERVICES"), {"code": "4821", "cat" "Services", "subcat"
+
+{" code": "4816", "cat": "Services", "subcat": "Utility Services", "desc": "COMPUTER NETWORK/INFORMATION SERVICES"),
+
+"4829", "cat": "Services", "subcat" {"code" ("code" "Utility Services", "desc": "HONEY TRANSFER-MERCHANT"),
+
+"4899", "cat": "Services", "subcat": "Utility Services", "desc": "CABLE, SATELLITE, OTHER PAY TELEVISION, RADIO sves"),
+
+{"code": "4900", "cat" "Services", "subcat" " Utility Services", "dest" "UTLTS-ELCTRC, SAS, HEATING OIL, SANITARY, WATER"),
+
+{"code": "1013", "cat": "Services", "subcat" "Retall Outlet Services", "desc": "HOTOR VEHICLE SUPPLIES AND NEW PARTS),
+
+("code": "5021", "cat": "Services", "subcat" "Retall Outlet Services", "desc": "OFFICE AND COMMERCIAL FURNITURE"),
+
+{"code": "say", "cat" "Services", "subcat":
+
+("code": "5844", "cat" "Services", "subcat" "Retail Outlet Services", "desc": "CONSTRUCTION MATERIALS NOT ELSEWHERE CLASSIFIED"), "Retail Outlet Services", "desc": "OFFICE PHOTOGRAPHIC PHOTOCOPY AND MICROFILM EQUIPHT"),
+
+("code": "5045", "cat" "Services", "subcat": "Retail Outlet Services", "desc" "COMPUTERS, COMPUTER PERIPHERAL EQUEPMENT, SOFTWARE"),
+
+("code": "5046", "cat": "Services", "subcat": "Retail Outlet Services", "desc": "COPPMERCIAL EQUIPMENT, NOT ELSEWHERE CLASSIFIED"), ("code": "3047", "cat": "Services", "subcat" "Retail Outlet Services", "desc": "DENTAL/LAB/RED/OPHTHALMIC HOSP EQUIP AND SUPPLIES"),
+
+{"code":"1051", "cat" "Services", "subcat": "Retail Outlet Services", "desc": "METAL SERVICE CENTERS AND OFFICES").
+
+" code":"1065", "cat": "Services", "subcat": "Retail Outlet Services", "desc": "ELECTRICAL PARTS AND EQUIPMENT), "code ": "5072", "cat" "Services", "subcat" "Retail Outlet Services", "desc": "HARDWARE EQUIPMENT AND SUPPLIES"),
+
+("code" "5074", "cat" "Services", "subcat" "Betall Outlet Services", "desc": "PLUMBING AND HEATING EQUIPMENT)
+
+{"code":"Sony", "cat" "Services", "subcat" ("code":"3004","cat" "Services", "subcat" "Retail Outlet Services", "desc" "Betall Outlet Services", "desc":
+
+{"code": "5099", "cat" "Services", "subcat" "Retail Outlet Services", "desc": "DURABLE GOODS , NOT ELSEMHERE CLASSIFIED"),
+
+("code": "1111", "cat" "Services", "subcat" ("code": "5122", "cat": "Services", "subcat": "Betall Outlet Services", "desc": "STATIONERY/OFFICE SUPPLIES/PRINTING AND WRITING PAP
+
+("code": "5131", "cat": "Services", "subcat" "Retall Outlet Services", "desc" "Retall Outlet Services", "dess"
+
+"INDUSTRIAL SUPPLIES NOT ELSEWHERE CLASSIFIED"),
+
+"PRECIOUS STONES AND PETALS, WATCHES AND JEWELRY"),
+
+"DRUGS, DRUP PROPRIETAKIES, AND DRUGGEST'S SUPPLIES"),
+
+PEECE GOODS, NOTIONS, AND OTHER DRY GOODS),
+
+"code":"137", "lat": "Services", "subcat" "Retail Outlet Services", "HENS/MEN'S/CHILDREN'S UNIFORMS/COMMERCIAL CLOTH"), {"code": "5139", "cat" "Services", "subcat": "Retall Outlet Services", "desc"
+
+"COMERCIAL FOOTWEAR"),
+
+("code": "5169", "cat" "Services", "subcat": "Retail Outlet Services", "desc": "CHEMICALS/ALLIED PRODUCTS NOT ELSEWHERE CLASSIFIED),
+
+{"code":"172","cat" ("code": "518", "cat" "Services", "subcat": "Retall Outlet Services", "test" "PETROLEUM AND PETROLEUM PRODUCTS"), "Services", "subcat" "Retail Outlet Services", "desc":
+
+("code": "1193", "cat" ("code": "5190", "cat" "Services", "subcat" "Retail Outlet Services", "desc": "Services", "subcat": "Retail
+
+{" code":"5199","cat" "Services", "subcat" "Retail Outlet Services", "desc"
+
+"BOOKS, PERIODICALS AND NEWSPAPERS),
+
+"FLORIST SUPPLIES, NURSERY STOCK AND FLOWERS)
+
+Outlet Services", "desc": "PAINTS, VARNISHES AND SUPPLIE"),
+
+("code":"5200","cat" "Services", "subcat" "Retall Outlet Services", "desc"
+
+ORDURABLE SODDS (NOT ELSEWHERE CLASSIFIED)"),
+
+"HOME SUPPLY WAREHOUSE STORES,
+{"code": "5211", "cat": "Services", "subcat": "Retail Outlet Services", "desc": "BUILDING MATERIALS, LUMBER STORES"),
+
+{"code": "5231", "cat": "Services", "subcat": "Retail Outlet Services", "desc": "GLASS, PAINT, WALLPAPER STORES"),
+
+("code": "5251", "cat": "Services", "subcat": "Retail Outlet Services", "desc": "HARDWARE STORES),
+
+("code": "5261", "cat": "Services", "subcat" "Retail Outlet Services", "desc": "LAMN AND GARDEN SUPPLY STORES),
+
+{"code": "5271", "cat": "Services", "subcat" "Retail Outlet Services", "desc": "MOBILE HOPE DEALERS"),
+
+("code": "5300", "cat": "Services", "subcat": "Retall Outlet Services", "desc": "WHOLESALE CLUBS"),
+
+{"code": "5309", "cat": "Services", "subcat": "Retall Outlet Services", "desc": "DUTY FREE STORES"),
+
+{"code": "5310", "cat": "Services", "subcat": "Retail Outlet Services", "desc": "DISCOUNT STORES").
+
+"code" "5311", "cat" "Services", "subcat" "Retail Outlet Services"; "desc" "DEPARTMENT STORES").
+
+("code": "5312", "cat": "Services", "subcat": "Retail Outlet Services", "desc" "TIER 1 RETAIL POS"),
+
+("code" "5313", "cat" "Services", "subcat": "Retail Outlet Services", "desc": "DEPARTMENT STORES OF HOBBY, TOYS AND GAMES"),
+
+{"code {" code": "5399", "cat" "Services", "subcat": "Retail Outlet Services", "desc": "RISCELLANEOUS GENERAL RERCHAADISE"),
+
+" "5331", "cat": "Services", "subcat": "Retail Outlet Services", "desc" "VARIETY STORES"),
+
+("code": "3411", "cat" "Services", "subcat": "Retail Outlet Services", "desc": "GROCERY STORES, SUPERMARKETS"),
+
+{"code": "5422", "cat": "Services", "subcat": "Retail Outlet Services", "desc" "FREEZER, LOCKER MEAT PROVISIONERS"),
+
+("code": "5441", "cat"
+
+{" "Services", "subcat": "Retail Outlet Services", "desc": "CANDY, NUT, CONFECTIONERY STORES"),
+
+code": "5451", "cat" "Services", "subcat" "Retail Outlet Services", "desc": "DAIRY PRODUCTS STORES),
+
+("code": "5462", "cat"
+
+{"code": "5499", "cat" "Services", "subcat" "Retail Outlet Services", "desc" "BAKERIES"), "Services", "subcat"
+
+("code" "5511", "cat": "Services", "subcat" "Retall Outlet Services", "desc" "HISC FOOD STORE CONVENIENCE, MRAT, SPLTY, VENDING MACS"),
+
+"Services", "subcat" ("code" "5521", "cat" "Retail Outlet Services", "desc":
+
+"code
+
+{"code": "5531", "cat" "Services", "subcat" ("code" "Betall Outlet Services", "desc":
+
+: "9332", "cat" "Services", "subcat" "5533", "cat":"Services", "subcat" "Retall Outlet Services", "desc" "Retall Outlet Services", "desc": "AUTOMOTIVE PARTS, ACCESSORIES STORES"), "AUTOMOTIVE TIRE STOKES").
+
+{"code": "5541", "cat" "Services", "subcat" "Retail Dutlet Services", "desc"
+
+("code": "5541", "cat" "Services", "subcat" "Retall Outlet Services", "es" "5543", "cat": "Services", "subcat": "Retail Outlet Services", "desc"
+
+"code"
+
+"code" "5544", "cat" "Services", "subcat": "Retail Outlet Services", "desc":
+
+"code"
+
+"Retail Outlet Services", "desc": "AUTO AND TRUCK DLRS-SALES, SVC, REPRS, PRTS, AND LEASING"),
+
+"AUTOMOBILE AND TRUCK DEALERS-(USED ONLY)-SALES"),
+
+"AUTO STORE, HOME SUPPLY STORES),
+
+"SERVICE STATIONS WITH OR WITHOUT ANCILLARY SERVICE"),
+
+"FUEL DISPENSER, AUTOMATED"),
+
+"SERVICE STATIONS (CAMPSA)"),
+
+"TIER 2 CONVENIENCE FOS)
+
+"5951", "cat" "Services ", " subcat" " Retall Outlet Services", " desc": "Electric Vehicle Charging"), {"code": "3552", "cat" "Services", "subcat" "Retall Outlet Services", "desc"
+
+"BOAT DEALERS"),
+
+"CAPPER DEALERS, RECREATIONAL AND UTILITY TRAILERS"),
+
+MOTORCYCLE SHOPS AND DEALERS",
+
+"HOTOR HOME DEALERS", desc"
+
+("code" "5561", "cat" "Senices", "subcat": "Retail Outlet Services", "desc":
+
+"5571", "int": "Services", "subcat": "Retall Outlet Services", "desc" "Services", "subcat": "Retail Outlet Services", " ("code": "5502", "cat"
+
+"Services", "subcat" "Retail Outlet Services", ""SMOBILE DEALERS", "code" "5598", code": "5599", "cat" "Retail Outlet Services", "
+
+"Services", "subcat" " "5611", "cat" "Services", "subcat" "Clothing Stores", "desc" "HEN'S AND BOY'S CLOTHING AND ACCESSORIES STORES),
+
+100 "code": "5621", "cat" " "Services", "subcat"
+
+code" "5631", "cat" "Services", "subcat" "Clothing Stores", "
+
+["code"
+
+"code" " " Stores", " ""5663","cat" "Services", "subcat" "Clothing Stores", "es"
+
+"5641", "cat" "Services", "subcat" "5651", "cat" "Services", "subcat" "Cinthing Stores", "desc" "Cluthing Stores", "
+
+"5655", "cat" "Services", "subcat" "Clathing Stures", "
+
+"5661", "cat": "Services", "subcat" 5662","cat" " Services", "subcat "Clothing Stores", "desc" "SHE STORES), Clothing
+
+desc" "RESC/AUTO/AERCRAFT/FARM EQUE NOT ELSEWHERE CLASS")
+
+"Clothing Stores", "desc" "MEN'S READY TO HEAR STORES),
+
+EN'S ACCESSORY AND SPECIALTY STORES),
+
+"OHILDREN'S AND INFANT'S HEAR STORES),
+
+desc" "FAMILY CLOTHING STORES),
+
+desc":"SPORTS APPAREL, RIDING APPAREL STORES.
+
+desc""TER 1 SUPERMARKET"],
+
+"TIER 2 SUPERMARKET MO
+
+"5681", "cat":"Services", "subcat" "Clothing Stores", "desc" "FURRIERS AND FUR SHOPS)
+{"
+
+code": "5691", "cat": "Services", "subcat": "Clothing Stores", "desc" "HEN'S AND WOMEN'S CLOTHING STORES"), {"code": "5697", "cat": "Services", "subcat": "Clothing Stores", "desc": "ALTERATIONS, MENDING, SEAPSTRESSES, TAILORS"),
+
+( {"code": "5699", "cat": "Services", "subcat": "Clothing Stores", "desc": "ACCESSORY AND APPAREL STORES-MISCELLANEOUS"),
+
+"code": "5698", "cat": "Services", "subcat": "Clothing Stores", "desc": "WIG AND TOUPEE SHOPS"),
+
+{"code": "5712", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "EQUIP, FURNITURE, HOME FURNISHINGS STRS (EXEPT APPL)"),
+
+("code": "5713", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "FLOOR COVERING STORES"),
+
+{ "code": "5714", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "DRAPERY, UPOLSTERY, AND WINDON COVERINGS STORES),
+
+{"code" "5718", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "FIREPLACE, FIREPLACE SCREENS AND ACCESSORIES STORES),
+
+{"code": "5719", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "RESCELLANEOUS HOUSE FURNISHING SPECIALTY SHOPS"),
+
+{"code": "5722", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "HOUSEHOLD APPLIANCE STORES"),
+
+("code": "5732", "cat": " Services", "subcat": "Miscellaneous Stores", "desc": "ELECTRONIC SALES"),
+
+{"code" "5733", "cat": "Services", "subcat": "Miscellaneous Stores", "desc":
+
+"MUSIC STORES-INSTRUMENTS, PIANOS, SHEET MUSIC"),
+
+{"code": "5734", "cat": "Services", "subcet": "Riscellaneous Stores", "desc": "COMPUTER SOFTWARE STORES"),
+
+{"code": "5735", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "RECORD SHOPS"),
+
+{
+
+"code": "5811", "at": "Services", "subcat": "Miscellaneous Stores", "desc": "CATERERS"),
+
+("code": "5812", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "EATING PLACES, RESTAURANTS),
+
+{"code": "5813", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "BAR, LOUNGE, DISCO, NIGHTCLUB, TAVERN ALCOHOLIC DRINKS"),
+
+{"code": "5814", "cat" "Services", "subcat": "Riscellaneous Stores", "desc": "FAST FOOD RESTAURANTS"),
+
+{"code": "5812", "cat": "Services", "subcat": "Miscellaneous Stores", "desc" "DRUG STORES, PHARMACIES"),
+
+("code": "5921", "cat": "Services", "subcat" "Riscellaneous Stores", "desc": "PACKAGE STORES, BEER, MINE, LIQUOR"),
+
+{"code": "5031", "cat": "Services", "subcat" {"code": "5932", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "SECOND "Miscellaneous Stares", "desc":
+
+("code": "5913", "cat": "Services", "subcat" ("code "Miscellaneous Stores", "desc": "PAN SHOPS"),
+
+" "Services", "subcat" ": "1937", "cat" "Miscellaneous Stores" , "desc": "ANTIQUE REPRODUCTION STORES),
+
+: "3915", "cat" "Services", "subcat" "Riscellaneous Stures", "desc" "SALVAGE AND WRECKING YARDS"),
+
+{"code "Miscellaneous Stores", "desc": "BICYCLE SHOPS-SALES AND SERVICE"), ["code" "5948", "cat" "Services", "subcat":
+
+HAND STORES, USED HERCHANDISE STORES"), "ANTIQUE SHOPS-SALES, REPAIRS, RESTORATION SERVICES"),
+
+"Miscellaneous Stores", "desc": "SPORTING GOODS STORES), ("code": "5942", "cat" "Services", "subcat" "Miscellaneous Stores", "desc": "ROOK STORES), "code" "5941", "cat" "Services", "subcat"
+
+"code" "5941", "cat" "Services", "subcat" ("code" "Miscellaneous Stores", "desc":
+
+"1944", "cat" "Services", "subcat" "Miscellaneous Stores", "desc" "5945", "cat" "Services", "subcat" "
+
+"Services", "subcat": "Miscellaneous Stores", "desc" Riscellaneous Stores", "des AE, TOY, AND HOBBY SHOPST), {"code": "9946", "cat" "code"
+
+"CAMERA AND PHOTOGRAPHIC SUPPLY STORES),
+
+"OFFICE, SCHOOL SUPPLY, AND STATIONERY STORES),
+
+"CLOCK, JEWELRY, WATCH, AND SELVERWARE STORE"),
+
+"code" "5947", "cat" "Services", "subcat": "548", "cat" "Services", "subcat" "Riscellaneous Stores", "desc":"SIFT, CARD, NOVELTY AND SOUVENIR SHOPST), "Riscellaneous Stares", "desc":
+
+("code" "code" "5049", "cat" "Services", "subcat" "Riscellaneous Stores", "Des"
+
+"code" "5958", "cat" "Services", "subcat" "1968", "cat": "Services", "subcat" "Miscellaneous Stores", "desc": "CRYSTAL AND GLASSWARE STORES "Riscellaneous Stores", "desc": "DIRECT MARKETING-INSURANCE SERVICES),
+
+"code" "1962", "cat" "Services", "subcat" "Miscellaneous Stures", "S" "DERECT MARKETING-TRAVEL RELATED ARRANGEMENT SERVS."),
+
+("code"
+
+"1963", "cat" "Services", "subcat" {"code":"S", "cat" "Services", "subcat" "Miscellaneous Stares", "desc" "Miscellaneous Stores", "desc" "DOUR-TO-DOOR SALES"), "DIRECT MARKETING-CATALOG PERCHANTS"),
+
+"code" "code" "Miscellaneous Stures", "desc": "9063", "cat" "Servizes", "subcat" "5964", "cat" "Services", "subcat":"Miscellaneous Stores", "desc"
+
+"LEATHER 6000S AND LUGGAGE STORES),
+
+"FABRIC, NEEDLEMORE, PIECE GOODS, AND SEWING STORES),
+
+: "1967", "cat" "Services", "subcat" "Miscellaneous Stores", "DESC" "DIRECT MARKETING INBOUND TELEMARKETING MERCHANTS"),
+
+( "e":"","cat" "Services", "subcat" "5969", "cat" "Services", "subcat" "Miscellaneous Stores", "desc": "Miscellaneous Stares", "d"
+
+"DIRECT MARKETING-COMBINATION CATALOG/RETAIL PERCH",
+
+"BERECT MARKETING OUTBOUND TELEMARKETING PERCHANTS"),
+
+"DIRECT MARKETING CONTINUITY/SUBSCRIPTION PERCHANTS),
+
+"DIRECT MARKETING-OTHER DIRECT MARKETERS/NOT ELSEW."}
+("code": "5970", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "ARTIST SUPPLY STORES, CRAFT SHOPS"),
+
+("code": "5971", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "ART DEALERS AND GALLERIES"),
+
+{"code": "5972", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "STAMP AND COIN STORES-PHILATELIC AND
+
+{"code": "5973", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "RELIGIOUS GOODS STORES"),
+
+{"code": "5975", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "HEARING AIDS-SALES, SERVICE, SUPPLY STOR
+
+"subcat": "Riscellaneous Stores", "desc": "ORTHOPEDIC GOODS-ARTIFICIAL LIMB STORES {"code" "5976", "cat": "Services",
+
+{"code" "5977", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "COSMETIC STORES"),
+
+{"code": "5978", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "TYPEWRITER STORES-RENTALS, SALES, SERVICE
+
+{"code" "5983", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "FUEL DEALERS-COAL, FUEL OIL, LIQ PETROLEL
+
+{"code" "5992", "cat": "Services", "subcat": "Riscellaneous Stores", "desc": "FLORISTS"),
+
+{"code" "5993", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "CIGAR STORES AND STANDS"),
+
+{"code" {"code" "5994", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "NEWS DEALERS AND NEWSSTANDS"),
+
+{ "5995", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "PET SHOPS PET FOODS AND SUPPLIES"),
+
+"code" "5996", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "SWIMMING POOLS SALES AND SUPPLIES">,
+
+{"
+
+code": "5997", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "ELECTRIC RAZOR STORES SALES AND SERVICE
+
+{"code": "5998", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "TENT AND AWNING SHOPS"),
+
+("code" "5999", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "MISCELLANEOUS AND SPECIALTY RETAIL STORES"
+
+{"code": "6010 "cat":"","subcat": "Miscellaneous Stores", "desc": "MEMBER-PANJAL CASH DISBURSEMENT"),
+
+{"code": "6011", "cat": "Services", "subcat": "Miscellaneous Stores, desc": "HEMBER AUTOMATED CASH DISBURSEMENT"),
+
+{"code": "6012", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "HEMBER-MERCHANDISE AND SERVICES"),
+
+("code" "6022", "cat": "Services", "subcat": "Miscellaneous Stores", "desc" "FINANCIAL INSTITUTION (ACL INTERNAL)
+
+("code" "6023", "cat": "Services", "subcat": "Miscellaneous Stores", "desc" "STATE BANKS (RCL INTERNAL)"),
+
+"subcat": "Miscellaneous Stores", "desc": "NATIONAL BANKS (HEL INTERNAL) {"code": "6025", "cat": "Services",
+
+"subcat": "Miscellaneous Stords", "desc": "NATIONAL BANKS NON FEDERAL (ACL INTERNAL)"), {" code"
+
+"subcat": "Miscellaneous Stores", "desc": "UNICORPORATED PRIVATE BANKS (RCL INTERNAL)"), "6028", "cat": "Services",
+
+"subcat": "Miscellaneous Stores", "desc" "QUASI CASH MEMBER"), {"code": "6058", "cat": "Services",
+
+{"code": "6026", "cat": "Services",
+
+("code" "6051", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "QUASI CASH-MERCHANTT),
+
+{"code": "6211", "cat": "Services", "subcat": "Riscellaneous Stores", "desc": "SECURITIES-BROKERS/DEALERS"), "6300", "cat" "Services", "subcat" : "Riscellaneous Stores", "desc": "INSURANCE SALES, UNDERWRITING, AND PREMIUMS").
+
+["code"
+
+{"code": "6513", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "REAL ESTATE AGENTS AND MANAGERS RENTALS"),
+
+{"code": "6529", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "REMOTE STORED VALUE LOAD MEMBER"),
+
+{"code": "6538", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "REMOTE STORED VALUE LOAD MERCHANTS.
+
+{"code": "6531", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "PAYMNT SVC PROVIDER-PAYMNT TRANSFER FOR A PURCH
+
+{"code"
+
+"6532", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "PYNT SVC PROVIDR-MER FINANCL INSTITUTIN PYNT TRA
+
+{"code": "6533", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "PSP-MERCHANT-PAYMENT TRANSACTION"),
+
+{"code": "6534", "cat": "Services", "subcat": "Hiscellaneous Stores", "desc": "HONEY TRANSFER-MEMBER">
+
+{"code": "6535", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "VALUE PURCHASE-MEMBER FINANCIAL INSTITUTIONS"),
+
+["code"
+
+"6536", "cat": "Services", "subcat": "Riscellaneous Stores", "desc" "HONEYSEND INTRACOUNTRY",
+
+{"code": "6537", "cat" "Services", "subcat": "Miscellaneous Stores", "desc" "HONEYSEND INTERCOUNTRY"),
+
+{"code": "7011", "cat": "Lodging", "subcat": "Miscellaneous Stores", "desc": "LODGING-HOTELS, HOTELS, RESORTS-NOT CLASSIFIED"),
+
+(" code": "7012", "cat" "Services", "subcat": "Miscellaneous Stores", "desc": "TIMESHARES",
+
+{"code" : "7032", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "RECREATIONAL AND SPORTING CAMPS"),
+
+("code": "7033", "cat" "Services", "subcat" "Miscellaneous Stores", "desc": "CAMPOROUNDS AND TRAILER PARKS"),
+
+(" ("code":"7211", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "LAUNDRY SERVICES FAMILY AND COPMERICAL",
+
+code":"7210", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "CLEANING, GARMENT, AND LAUNDRY SERVICES"),
+{"code": "7216", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "ORY CLEANERS"),
+
+{"code": "7217", "cat": "Services", "subcat": "Miscellaneous Stores", "desc" "CARPET AND UPHOLSTERY CLEANING"),
+
+{"code": "7221", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "PHOTOGRAPHIC STUDI05"),
+
+("code": "7238", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "BARBER AND BEAUTY SHOPS"),
+
+("code": "7251", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "HAT CLEANING SHOPS, SHOE REPAIR SH
+
+{"code": "7261", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "FUNERAL SERVICE AND CREMATORIES"),
+
+{"code": "7273", "cat": "", "subcat": "Miscellaneous Stores", "desc": "DATING AND ESCORT SERVICES"),
+
+{"code": "7276", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "TAX PREPARATION SERVICE"),
+
+("code": "7277", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "DEST, MARRIAGE, PERSONAL-COUNSELING
+
+{"code": "7278", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "BUYING/SHOPPING CLUBS, SERVICES"),
+
+("code": "7296", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "CLOTHING RENTAL-COSTUMES, UNIFORMS, FOR
+
+{"code": "7297", "cat": "", "subcat": "Riscellaneous Stores", "desc": "MASSAGE PARLORS"),
+
+("code": "7298", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "HEALTH AND BEAUTY SPAS"),
+
+("code": "7299", "cat": "Services", "subcat": "Miscellaneous Stores", "desc": "OTHER SERVICES (NOT ELSEWHERE CLASSIF
+
+("code": "7311", "cat": "Services", "subcat": "Business Services", "desc": "ADVERTISING SERVICES"),
+
+{"code": "7321", "cat": "Services", "subcat": "Business Services", "desc": "CONSUMER CREDIT REPORTING AGENCIES"),
+
+("code": "7322", "cat": "Services", "subcat": "Business Services", "desc": "Debt Collection Agencies"),
+
+{"code": "7333", "cat": "Services", "subcat" "Business Services", "desc": " COMMERCIAL ART, GRAPHICS, PHOTOGRAPHY"),
+
+("code": "7338", "cat": "Services", "subcat": "Business Services", "desc": "QUICK COPY, REPRODUCTION AND BLUEPRINTING SI {"
+
+code": "7339", "cat": "Services", "subcat": "Business Services", "desc": "STENOGRAPHIC AND SECRETARIAL SUPPORT SERVIC
+
+(" code": "7342", "cat" "Services", "subcat": "Business Services", "desc": "EXTERMINATING AND DISINFECTING SERVICES"),
+
+("code": "7349", "cat" "Services", "subcat": "Business Services", "desc": "CLEANING AND MAINTENANCE, JANITORIAL SERVICE
+
+{"code": "7361", "cat": "Services", "subcat": "Business Services", "desc":
+
+"EMPLOYMENT AGENCIES, TEMPORARY HELP SERVICES
+
+("code":"7372", "cat" "Services", "subcat": "Business Services", "desc": "COMP PROGRAMING, DATA PROSNG, INTORTO SYS DSGN {"code": "7375", "cat" "Services", "subcat": "Business Services", "desc": "INFORMATION RETRIEVAL SERVICES"),
+
+{"code": "7379", "cat": "Services", "subcat": "Business Services", "desc" "COMPUTER MAIN. REPAIR/SERVICES NOT ELSEWHERE
+
+{ "code": "7392", "cat": "Services", "subcat": "Business Services", "desc": "CONSULTING, MANAGEMENT, AND PUBLIC RELATIONS
+
+("code": "7393", "cat" "Services", "subcat" "Business Services", "desc":
+
+"DETECTVE/PROTECTVE AGNCY, SECURITY SRVS, ARMOR
+
+{"code": "7394", "cat"
+
+"Services", "subcat": "Business Services", "desc" "EQUIPMENT RENTALAND LEASING SVS, FURNTURE/TOOL
+
+{"code":"7395", "cat": "Services", "subcat": "Business Services", "desc": "PHOTO DEVELOPING, PHOTOFINISHING LABORATORIES",
+
+{ ("code": "7511", "cat" "Services", "subcat": "Business Services", "desc": "TRUCK STOP TRANSACTIONS",
+
+"code": "7399", "cat" "Services", "subcat": "Business Services", "desc": "BUSINESS SERVICES-NOT ELSEWHERE CLASSIFIED").
+
+("code": "7512", "cat":"","subcat": "Business Services", "desc": "AUTOMOBILE RENTAL AGENCY-NOT ELSEWHERE CLASSIFIED"), "code" "7511", "cat", "subcat": "Business Services", "desc": "TRUCK RENTAL"),
+
+{ {"code": "7519", "cat", "subcat": "Business Services", "desc": "HOTOR HOME AND RECREATIONAL VEHICLE RENTAL"),
+
+{"code" "7523", "cat": "Services", "subcat": "Business Services", "desc": "AUTOMOBILE PARKING LOTS AND GARAGES"),
+
+{"code": "7531", "cat": "Services", "subcat": "Business Services", "desc": "AUTOMOTIVE BODY REPAIR SHOPS"),
+
+(" code" "7534", "cat": "Services", "subcat": "Business Services", "desc" "TIRE RETREADING AND REPAIR SHOPS"),
+
+("code":"7535", "cat" "Services", "subcat" "Business Services", "desc": "AUTOMOTIVE PAINT SHOPS"),
+
+{"code":"7538", "cat": "Services", "subcat": "Business Services", "desc": "AUTOMOTIVE SERVICE SHOPS"), "Business Services", "desc": "CAR MASHES"),
+
+("code" "7542", "cat": "Services", "subcat" "Business Services", "desc" "TOMING SERVICES"),
+
+{" code":"7549", "cat" "Services", "subcat"
+
+{"code":"7622", "cat" "Services", "subcat": "Business Services", "desc" "ELECTRONIC REPAIR SHOPS"),
+
+{"code" "7623", "cat":"Services", "subcat": "Business Services", "desc": "AIR CONDITIONING AND REFRIGERATION REPAIR SHOPS"),
+
+("code":"7629", "cat" "Services", "subcat" "Business Services", "desc": "ELECTRICAL AND SHALL APPLIANCE REPAIR SHOPS"),
+"code": "7631", "cat": "Services", "subcat": "Business Services", "desc": "CLOCK, JEWELRY, AND WATCH REPAIR SHOPS"),
+
+"code": "7641", "cat": "Services", "subcat": "Business Services", "desc": "FURNITURE-REUPHOLSTERY AND REPAIR, REFINISHING"},
+
+-"code": "7692", "cat": "Services", "subcat": "Business Services", "desc": "WELDING REPAIR"},
+
+" code": "7699", "cat": "Services", "subcat": "Business Services", "desc": "MISCELLANEOUS REPAIR SHOPS AND RELATED SERVICES"},
+
+"code": "7800", "cat": "Services", "subcat": "Business Services", "desc" "Government Owned Lottery"},
+
+"code": "7801", "cat": "Services", "subcat": "Business Services", "desc" "Internet Gambling"},
+
+"code": "7802", "cat": "Services", "subcat": "Business Services", "desc":"Government Horse/Dog Racing"),
+
+"code": "7829", "cat": "Services", "subcat": "Business Services", "desc":
+
+"MOTION PICTURE/VIDEO TAPE PRODUCTION/DISTRIBUTION"),
+
+"code": "7832", "cat": "Services", "subcat": "Business Services", "desc": "MOTION PICTURE THEATERS"},
+
+"code": "7841", "cat": "Services", "subcat": "Business Services", "desc": "DVD/VIDEO TAPE RENTAL STORE"),
+
+"code": "7911", "cat": "Services", "subcat": "Business Services", "desc": "DANCE HALLS, SCHOOLS, AND STUDIOS"},
+
+"code": "7922", "cat": "Services", "subcat": "Business Services", "desc":
+
+"THEATRICAL PRODUCERS (EXCL MOTION PIX), TICKET AGNCY"},
+
+"code": "7929", "cat": "Services", "subcat": "Business Services", "desc": "BANDS, ORCHESTRAS, AND MISC ENTRTNRS-NOT ELSWHR CLAS"),
+
+"code": "7932", "cat": "Services",
+
+"subcat": "Business Services", "desc": "POOL AND BILLIARD ESTABLISHMENTS"),
+
+"code": "7933", "cat": "Services", "subcat": "Business Services", "desc": "BOWLING ALLEYS"),
+
+( "code": "7941", "cat": "Services", "subcat": "Business Services", "desc": "ATHLTIC FIELDS, COMMRCL SPRT, SPRT CLBS, SPRT PROMOTR"),
+
+{"code": "7991", "cat": "Services", "subcat": "Business Services", "desc": "TOURIST ATTRACTIONS AND EXHIBITS"},
+
+{"code": "7992", "cat": "Services", "subcat": "Business Services", "desc": "GOLF COURSES-PUBLIC"},
+
+{"code": "7993", "cat": "Services", "subcat": "Business Services", "desc": "VIDEO AMUSEMENT GAME SUPPLIES"),
+
+{"code": "7994", "cat": "Services", "subcat": "Business Services", "desc": "VIDEO GAME ARCADES/ESTABLISHMENTS"),
+
+{"code": "7995", "cat": "", "subcat": "Business Services", "desc": "GAMBLING TRANSACTIONS"),
+
+{"code": "7996", "cat": "Services", "subcat": "Business Services", "desc": "AMUSEMENT PARKS, CARNIVALS, CIRCUS, FORTUNE TELLERS"),
+code": "7997", "cat": "Services", "subcat": "Business Services", "desc": "CLUBS-CNTRY, MBRSHIP (ATHLET, REC, SPRTS, PRIVATE GOLF"),
+
+code": "7998", "cat": "Services", "subcat": "Business Services", "desc": "AQUARIUMS, DOLPHINARIUMS, AND SEAQUARIUMS",
+
+code": "7999", "cat": "Services", "subcat": "Business Services", "desc": "RECREATION SERVICES (NOT ELSEWHERE CLASSIFIED)"},
+
+code": "8011", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "DOCTORS, (NOT ELSEWHERE CLASSIFIED)"),
+
+"code": "8021", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "DENTISTS, ORTHODONTISTS"),
+
+"code": "8031", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "OSTEOPATHIC PHYSICIANS"),
+
+"code": "8041", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "CHIROPRACTORS"),
+
+"code": "8842", "cat": "Services", "subcat" : "Professional Services and Membership Organizations", "desc": "OPTOMETRISTS, OPHTHALMOLOGISTS"),
+
+"code": "8843", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "OPTICIANS, OPTICAL GOODS AND EYEGLASSES"),
+
+" code": "8049", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "CHIROPODISTS, PODIATRISTS"),
+
+"code": "8050", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "NURSING AND PERSONAL CARE FACILITIES"),
+
+"code": "8062", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "HOSPITALS"),
+
+"code": "8071", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "MEDICAL AND DENTAL LABORATORIES"),
+
+"code": "8082", "cat": "Services", " "subcat": "Professional Services and Membership Organizations", "desc": "Home Health Care Service"),
+
+code": "8099", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "HEALTH PRACTITIONERS, MEDICAL SRVCS-NOT ELSEWHERE"),
+
+"code": "8111", "cat": "Services", " "subcat": "Professional Services and Membership Organizations", "desc": "ATTORNEYS, LEGAL SERVICES"},
+
+code": "8211", "cat": "Services", "subcat": "Professional Services and Membership Organizations ", "desc": "SCHOOLS, ELEMENTARY AND SECONDARY"),
+
+"code": "8220", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "COLLEGES, UNIV, PRO SCHOOLS, JUNIOR COLLEGES"),
+
+"code": "8241", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "SCHOOLS, CORRESPONDENCE"),
+
+"code": "8244", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "SCHOOLS, BUSINESS AND SECRETARIAL"),
+
+"code": "8249", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "SCHOOLS, TRADE AND VOCATIONAL"),
+
+"code": "8299", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "SCHOOLS AND EDUCATIONAL SVC-NOT ELSEWHERE CLASSIFIED").
+
+"code": "8351", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "CHILD CARE SERVICES"),
+
+"code": "8398", "cat": "Services", "subcat" "Professional Services and Membership Organizations", "desc": "ORGANIZATIONS, CHARITABLE AND SOCIAL SERVICES").
+
+"code": "8641", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "ASSOCIATIONS-CIVIC, SOCIAL, AND FRATERNAL"),
+
+"code": "8651", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "ORGANIZATIONS, POLITICAL"),
+"code": "8661", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "ORGANIZATIONS, RELIGIOUS"},
+
+"code": "8675", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "AUTOMOBILE ASSOCIATIONS"),
+
+"code": "8699", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "ORGANIZATIONS, MEMBERSHIP-NOT ELSEWHERE CLASSIFIED"),
+
+"code": "8734", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "TESTING LABORATORIES (NON-MEDICAL)"),
+
+" code": "8911", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "ARCHITECTURAL, ENGINEERING, AND SURVEYING SERVICES"),
+
+"code": "8931", "cat": "Services", "subcat": "Professional Services and Membership Organizations", " desc": "ACCOUNTING, AUDITING AND BOOKKEEPING SERVICES"),
+
+"code": "8999", "cat": "Services", "subcat": "Professional Services and Membership Organizations", "desc": "PROFESSIONAL SERVICES-NOT ELSEWHERE CLASSIFIED"),
+
+"code": "9211", "cat": "Services", "subcat": "Government Services", "desc": "COURT COSTS INCLUDING ALIMONY AND CHILD SUPPORT"),
+
+"code: "9222", "cat": "Services", "subcat": "Government Services", "desc": "FINES"},
+
+"code": "9223", "cat": "Services", "subcat": "Government Services", "desc": "BAIL AND BOND PAYMENTS"),
+
+"code": "9311", "cat": "Services", "subcat": "Government Services", "desc": "TAX PAYMENTS"),
+
+"code": "9399", "cat": "Services", "subcat": "Government Services", "desc": "GOVERNMENT SERVICES-NOT ELSEWHERE CLASSIFIED"),
+
+"code": "9401", "cat": "Services", "subcat": "Government Services", "desc": "I-PURCHASING PILOT (TEST MCC)"},
+
+"
+
+code": "9402", "cat": "Services", "subcat": "Government Services", "desc": "POSTAL SERVICES-GOVERNMENT ONLY"},
+
+"code": "9405", "cat": "Services", "subcat": "Government Services", "desc": "INTRA-GOVERNMENT PURCHASES-GOVERNMENT ONLY"),
+
+"code": "9406", "cat": "Services", "subcat": "Government Services", "desc": "Government-Owned Lotteries (Non-U.S.region)"),
+
+("code": "9702", "cat": "Services", "subcat": "Government Services", "desc": "GCAS EMERGENCY SERVICES"),
+
+"code": "9751", "cat": "Services", "subcat": "Government Services", "desc": "UK SUPERMARKETS, ELECTRONIC HOT FILE"),
+
+{"code": "9752", "cat": "Services", "subcat": "Government Services", "desc": "UK PETROLS STATIONS, ELECTRONIC HOT FILE"),
+
+{"code": "9753", "cat": "Services", "subcat": "Government Services", "desc": "GERMANY ACCEPTANCE PROJECTS DOMESTIC USE ONLY"),
+
+("code": "9958", "cat": "Services", "subcat": "Government Services", "desc": "INTRA COMPANY PURCHASES")
+]
